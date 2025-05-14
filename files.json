@@ -2563,6 +2563,28 @@
             },
             {
               "type": "folder",
+              "name": "HINDI",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "LITERATURE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "HINDI-LITERATURE WS-1.pdf",
+                      "path": "SUMMER-VACATION/ASSIGNMENTS/HINDI/LITERATURE/HINDI-LITERATURE WS-1.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "HINDI-LITERATURE WS-2.pdf",
+                      "path": "SUMMER-VACATION/ASSIGNMENTS/HINDI/LITERATURE/HINDI-LITERATURE WS-2.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "folder",
               "name": "MATHS",
               "children": [
                 {
