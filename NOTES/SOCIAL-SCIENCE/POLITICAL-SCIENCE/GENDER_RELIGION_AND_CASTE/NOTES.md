@@ -1,11 +1,5 @@
 # NCERT Chapter 3: Gender, Religion and Caste - Key Points
 
-This chapter examines three major social divisions in Indian society and their interactions with politics: gender, religion, and caste. These social differences create hierarchies and inequalities that significantly impact democratic politics.
-
-## Overview
-
-The existence of social diversity doesn't threaten democracy, and political expression of social differences can be beneficial in a democratic system. This chapter explores how gender, religion, and caste differences manifest in Indian politics.
-
 ## Gender and Politics
 
 ### Sexual Division of Labor
