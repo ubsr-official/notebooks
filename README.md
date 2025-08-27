@@ -91,11 +91,6 @@ Contributing is easy — we **welcome everyone** (students, teachers, coders, ev
 3. 📝 Write notes in **Markdown format (`.md`)**  
 4. 🚀 Submit via Pull Request  
 
-👉 Not familiar with GitHub?  
-- Start with [BEGINNERS.md](BEGINNERS.md)  
-- Ask for guidance in Issues discussion  
-- Get inspired by others’ contributions  
-
 ***
 
 ## 📣 Recommendation-Based Contribution System  
@@ -109,33 +104,6 @@ To make this project **more inclusive**, we now encourage:
 The more **valuable notes** you contribute, the bigger your recognition! 🌟  
 
 📌 **Check [CONTRIBUTERS.md](CONTRIBUTERS.md)** → All contributors are credited ✨. Want your name here? Add something helpful!  
-
-***
-
-## 🧾 Markdown Content Format (Quick Template)  
-
-```md
-# Chapter Title (from NCERT)
-
-## 🔍 Summary
-5–10 lines simple explanation.
-
-## 📝 Key Points
-- 📌 Point 1  
-- 📌 Point 2  
-
-## ❓FAQs / PYQs
-- ❓ Q1: Question?  
-  - 💬 A: Answer here.  
-
-## 📅 Important Dates (History)
-- 📆 Year – Event  
-
-## 👤 Important People
-- 🧑‍🏫 Name: Contribution  
-
-> ✨ Notes made using Perplexity Pro + Anthropic Claude, reviewed by @username
-```
 
 ***
 
