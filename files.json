@@ -86,26 +86,6 @@
                   "name": "HOW_DO_ORGANISMS_REPRODUCE",
                   "children": [
                     {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/MCQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/SAQs.md"
-                    },
-                    {
                       "type": "folder",
                       "name": "SQPs",
                       "children": [
@@ -125,6 +105,26 @@
                           "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/SQPs/SQPC.md"
                         }
                       ]
+                    },
+                    {
+                      "type": "file",
+                      "name": "LAQs.md",
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/LAQs.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MCQs.md",
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/MCQs.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/NOTES.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SAQs.md",
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/SAQs.md"
                     }
                   ]
                 },
@@ -132,26 +132,6 @@
                   "type": "folder",
                   "name": "LIFE_PROCESSES",
                   "children": [
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/MCQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/SAQs.md"
-                    },
                     {
                       "type": "folder",
                       "name": "SQPs",
@@ -172,6 +152,26 @@
                           "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/SQPs/SQPC.md"
                         }
                       ]
+                    },
+                    {
+                      "type": "file",
+                      "name": "LAQs.md",
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/LAQs.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MCQs.md",
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/MCQs.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/NOTES.md"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SAQs.md",
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/SAQs.md"
                     }
                   ]
                 },
@@ -563,11 +563,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "file",
-      "name": "BEGINNERS.md",
-      "path": "BEGINNERS.md"
     },
     {
       "type": "folder",
@@ -2258,11 +2253,6 @@
       ]
     },
     {
-      "type": "file",
-      "name": "CONTRIBUTERS.md",
-      "path": "CONTRIBUTERS.md"
-    },
-    {
       "type": "folder",
       "name": "NCERT-PDF",
       "children": [
@@ -2687,11 +2677,6 @@
       ]
     },
     {
-      "type": "file",
-      "name": "README.md",
-      "path": "README.md"
-    },
-    {
       "type": "folder",
       "name": "SUMMER-VACATION",
       "children": [
@@ -2821,16 +2806,6 @@
       "name": "TRASH-BIN",
       "children": [
         {
-          "type": "file",
-          "name": "CHEMICAL_REACTIONS_AND_EQUATIONS.md",
-          "path": "TRASH-BIN/CHEMICAL_REACTIONS_AND_EQUATIONS.md"
-        },
-        {
-          "type": "file",
-          "name": "DEVELOPMENT.md",
-          "path": "TRASH-BIN/DEVELOPMENT.md"
-        },
-        {
           "type": "folder",
           "name": "NOTES",
           "children": [
@@ -2865,16 +2840,6 @@
               "path": "TRASH-BIN/NOTES/RISE_OF_NATIONALISM_IN_EUROPE.md"
             }
           ]
-        },
-        {
-          "type": "file",
-          "name": "NOTES.md",
-          "path": "TRASH-BIN/NOTES.md"
-        },
-        {
-          "type": "file",
-          "name": "NOTESX.md",
-          "path": "TRASH-BIN/NOTESX.md"
         },
         {
           "type": "folder",
@@ -2923,6 +2888,26 @@
         },
         {
           "type": "file",
+          "name": "CHEMICAL_REACTIONS_AND_EQUATIONS.md",
+          "path": "TRASH-BIN/CHEMICAL_REACTIONS_AND_EQUATIONS.md"
+        },
+        {
+          "type": "file",
+          "name": "DEVELOPMENT.md",
+          "path": "TRASH-BIN/DEVELOPMENT.md"
+        },
+        {
+          "type": "file",
+          "name": "NOTES.md",
+          "path": "TRASH-BIN/NOTES.md"
+        },
+        {
+          "type": "file",
+          "name": "NOTESX.md",
+          "path": "TRASH-BIN/NOTESX.md"
+        },
+        {
+          "type": "file",
           "name": "RESOURCE_AND_DEVELOPMENT.md",
           "path": "TRASH-BIN/RESOURCE_AND_DEVELOPMENT.md"
         },
@@ -2935,8 +2920,23 @@
     },
     {
       "type": "file",
+      "name": "BEGINNERS.md",
+      "path": "BEGINNERS.md"
+    },
+    {
+      "type": "file",
+      "name": "CONTRIBUTERS.md",
+      "path": "CONTRIBUTERS.md"
+    },
+    {
+      "type": "file",
       "name": "files.json",
       "path": "files.json"
+    },
+    {
+      "type": "file",
+      "name": "README.md",
+      "path": "README.md"
     }
   ]
 }
