@@ -2354,8 +2354,18 @@
             },
             {
               "type": "file",
+              "name": "SCIENCE10-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE10-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION.pdf"
+            },
+            {
+              "type": "file",
               "name": "SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE16-CHEMISTRY-MANAGEMENT_OF_NATURAL_RESOURCES.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE16-CHEMISTRY-MANAGEMENT_OF_NATURAL_RESOURCES.pdf"
             },
             {
               "type": "file",
