@@ -1,48 +1,52 @@
-# 🧠 Welcome to NoteBook-X
+Perfect ✅ I’ll help you rewrite and **upgrade your README.md** based on your request.  
+Here’s the improved version of the `README.md` for **NoteBook-X**, with:
 
-Welcome to **NoteBook-X**, your go-to collection of **AI-assisted, NCERT-based study notes** for **CBSE Class X**. Whether you're a student preparing for board exams, a teacher in search of structured material, or simply someone curious about AI’s role in education — this project is designed for you.
+- 📧 Added **contact details (email + WhatsApp option)**  
+- 🚀 Replaced **ChatGPT + Gemini → Perplexity Pro + Anthropic Claude**  
+- 📒 Encouraged new contributors to check **CONTRIBUTERS.md**  
+- 🌱 More **inclusive usage guidelines and recommendation-based system**  
+- 📝 Written in Markdown gist‑style formatting for easy AI prompting/forwarding  
 
-> ⚙️ **Powered by AI** (ChatGPT + Gemini) and created using **NCERT PDFs, past year papers (PYQs), and trusted educational resources**.
+***
 
----
+# 🧠 Welcome to NoteBook-X  
 
-**Organization**: United Boys Socialist Republic [UBSR]
-**Sub-Organization**: Study Association  
-**Creator**: Coding UHub
+Welcome to **NoteBook-X**, your go-to collection of **AI-assisted, NCERT-based study notes** for **CBSE Class X**.  
+Whether you're a student preparing for board exams, a teacher looking for structured material, or simply someone curious about how **AI can transform education** — this project is designed for you.  
 
----
+> ⚙️ **Powered by AI** (*Perplexity Pro + Anthropic Claude*) and built using **NCERT PDFs, Past Year Papers (PYQs), and trusted educational resources*.  
 
-## 📌 Key Features
+***
 
-✅ Aligned with the NCERT syllabus 📘  
-✅ Content generated using AI and verified by humans 🤖  
-✅ Clean, easy-to-read notes in Markdown 📝  
-✅ Organized by subject and topic 📂  
-✅ Student-friendly layout & easy GitHub contributions 👩‍🎓👨‍🎓
+## 🏛️ Organization  
 
-Each Chapter Includes:
+- **Organization**: United Boys Socialist Republic (UBSR)  
+- **Sub-Organization**: Study Association  
+- **Creator**: Coding UHub  
 
-- 📄 A brief chapter summary
-- 🧾 Revision notes in bullet points
-- 🕰️ Important historical dates and people
-- ❓ Frequently Asked Questions (FAQs) & PYQs
-- 🧭 Diagrams, timelines, or flowcharts
-- 💡 Key takeaways and concepts
-- 📚 References used (if any)
+📧 **Contact Us**: [ubsrofficial@gmail.com](mailto:ubsrofficial@gmail.com)  
+💬 **WhatsApp Support**: Message us directly if you find issues, bugs, or want updates (personal support for contributors & users).  
 
----
+***
 
-## 📚 Directory Structure
+## 📌 Key Features  
 
-```
+✅ Aligned with **NCERT syllabus** 📘  
+✅ **AI-generated + Human-verified** content 🤖👨‍🏫  
+✅ Clean, simple **Markdown format** 📝  
+✅ Well-structured **subject × chapter** layout 📂  
+✅ Beginner-friendly contribution system 🌱  
+✅ Inclusive + community-driven growth 👩‍🎓👨‍🎓  
+
+***
+
+## 🗂️ Directory Structure (from `files.json`)  
+
+```bash
 NoteBook-X/
-├── BEGINNERS.md                   # Getting started for new contributors
-├── CBSE-PAQs/                     # Previous year & practice questions
-├── CONTRIBUTING.md                # Contribution guidelines
-├── NCERT-PDF/                     # NCERT book PDFs sorted by subject
-├── NOTES/                         # Well-formatted notes in markdown
+├── AI-NOTES/                # AI-prepared notes for each subject
 │   ├── ENGLISH/
-│   ├── MATHS/
+│   ├── INFORMATION-TECHNOLOGY/
 │   ├── SCIENCE/
 │   │   ├── BIOLOGY/
 │   │   ├── CHEMISTRY/
@@ -52,149 +56,118 @@ NoteBook-X/
 │       ├── GEOGRAPHY/
 │       ├── HISTORY/
 │       └── POLITICAL-SCIENCE/
-├── PROMPT-DESIGNS/               # How we designed prompts for AI
-│   └── (subject-wise folders)
-├── PROMPTS/                      # AI prompts by subject/chapter
-│   └── [SUBJECT]/CHAPTER-X.md
-├── PROMPTS.md                    # Prompt usage guide
-├── PDF-URLs.md                   # Links to official NCERT PDFs
-├── README.md                     # This file
-└── autocommit.ps1 / tree.py      # Utility scripts
+├── CBSE-PAQs/               # Previous year & practice questions (2022–2024)
+├── NCERT-PDF/               # Official NCERT book PDFs sorted by subject
+├── SUMMER-VACATION/         # Assignments & projects
+├── TRASH-BIN/               # Old/work-in-progress drafts
+├── README.md                # This file
+├── BEGINNERS.md             # Getting started for new contributors
+├── CONTRIBUTERS.md          # List of contributors
+└── files.json               # File/folder metadata tree
 ```
 
-📎 **Link to NCERT PDFs**: [NCERT-PDFs](https://github.com/ubsr-official/notebooks/blob/main/NCERT-PDFs.md)
+***
 
----
+## 📚 What Each Chapter Includes  
 
-## 🧠 PROMPTS Directory Guide
+- 📄 A **chapter summary**  
+- 🧾 Key notes and revision points  
+- ❓ FAQs / PYQs from CBSE board papers  
+- 🧭 Diagrams, charts, and timelines  
+- 📅 Important dates (History)  
+- 👤 Key people & concepts explained  
+- 💡 Takeaways for revision  
 
-The `PROMPTS/` folder stores the prompts we used to generate AI-powered notes. It’s useful for:
+***
 
-- 🧠 Learning to write effective prompts
-- ♻️ Reusing good prompts across subjects
-- 📚 Understanding how AI can help in studies
+## 🧭 For Beginners  
 
-Each file contains:
+Contributing is easy — we **welcome everyone** (students, teachers, coders, even parents)!  
 
-- 📝 The exact prompt used
-- 🔍 Sometimes, the AI’s output (summary or key points)
-- 🛠️ Notes on any fixes or edits made
+### 🛠 Step-by-Step Guide  
 
----
+1. 📂 Go to the subject & chapter folder  
+2. ➕ Click `Add File` → `Create new file`  
+3. 📝 Write notes in **Markdown format (`.md`)**  
+4. 🚀 Submit via Pull Request  
 
-## ✍️ How To Contribute
+👉 Not familiar with GitHub?  
+- Start with [BEGINNERS.md](BEGINNERS.md)  
+- Ask for guidance in Issues discussion  
+- Get inspired by others’ contributions  
 
-We welcome everyone — **students, teachers, coders, and beginners**!
+***
 
-### 🛠 Easy Step-by-Step Guide
+## 📣 Recommendation-Based Contribution System  
 
-1. 📂 Go to the folder for the subject and chapter
-2. ➕ Click `Add File` → `Create new file`
-3. 🧾 Name it like: `summary.md`, `faq.md`, etc.
-4. 📝 Write in Markdown (check format below)
-5. 🚀 Click "Propose new file" → "Create Pull Request"
+To make this project **more inclusive**, we now encourage:  
+- 👥 Students to share study hacks, memory tips, and flowcharts  
+- 👩‍🏫 Teachers to add **real question bank suggestions**  
+- 🧑‍💻 Developers to improve **formatting, automation & AI prompts**  
+- 🌍 Community members to spread, recommend, and share with juniors  
 
-✅ That’s it! We’ll review and merge it!
+The more **valuable notes** you contribute, the bigger your recognition! 🌟  
 
-If you're completely new to GitHub:
-- 🌱 Start with [BEGINNERS.md](https://github.com/ubsr-official/notebooks/blob/main/BEGINNERS.md) — written for absolute beginners!
-- 🖱️ Use the GitHub website — no coding setup needed
-- 💬 If stuck, open an Issue and ask for help
-- 👥 Watch others' contributions to learn quickly
+📌 **Check [CONTRIBUTERS.md](CONTRIBUTERS.md)** → All contributors are credited ✨. Want your name here? Add something helpful!  
 
----
+***
 
-## 🧾 File Format Guidelines
-
-Use **Markdown format (`.md`)** for all content.
-
-### For Every Chapter:
+## 🧾 Markdown Content Format (Quick Template)  
 
 ```md
 # Chapter Title (from NCERT)
 
 ## 🔍 Summary
-Write 5–10 lines in simple language about the chapter.
+5–10 lines simple explanation.
 
 ## 📝 Key Points
-- 📌 Main points from the chapter
-- ✅ Good for last-minute revision
+- 📌 Point 1  
+- 📌 Point 2  
 
 ## ❓FAQs / PYQs
-- ❓ Q1: Sample question?
-  - 💬 A: Sample answer here.
+- ❓ Q1: Question?  
+  - 💬 A: Answer here.  
 
 ## 📅 Important Dates (History)
-- 📆 1789 – Start of French Revolution
-- 📆 1871 – Germany gets unified
+- 📆 Year – Event  
 
 ## 👤 Important People
-- 🧑‍🏫 Name: What they did or why they matter
+- 🧑‍🏫 Name: Contribution  
 
-> ✨ Notes made using ChatGPT/Gemini and checked by @username
+> ✨ Notes made using Perplexity Pro + Anthropic Claude, reviewed by @username
 ```
 
----
+***
 
-## 💡 Markdown Tips
+## 🤝 Contribution Principles  
 
-```md
-# → Big heading
-## → Small heading
-- → Bullet points
-code → Inline code
-> → Quotes or side notes
-```
+✅ Do  
+- Use folders correctly (per subject)  
+- Write in clear **Markdown**  
+- Focus on **Class X only** content  
+- Add **AI + human-verified** work  
 
----
+🚫 Don’t  
+- Upload **DOCX or PDFs** (keep it `.md`)  
+- Dump unchecked/incorrect AI output  
+- Mix lower/higher class content  
 
-## 🔐 Git & PR Tips
+***
 
-### 📌 Branch Names
+## 🙌 Thanks for Being Here  
 
-```
-history-ch1-notes
-science-physics-formulas
-```
+Every contribution makes **studying easier & smarter** 🌱.  
+Together, we’re building **India’s first free, AI-powered, NCERT-based Class X notes hub** 📘✨.  
 
-### ✅ Commit Messages
+💙 Let’s grow NoteBook-X — for students, by students, powered by AI + community.  
 
-```
-🆕 Added summary for History Chapter 1
-🔄 Updated FAQs for Civics Chapter 2
-```
+***
 
-### 🚀 Pull Request Rules
+📧 Email: [ubsrofficial@gmail.com](mailto:ubsrofficial@gmail.com)  
+💬 WhatsApp: Contact directly for issues, bugs, or updates  
+👥 Contributors: [See CONTRIBUTORS.md](CONTRIBUTERS.md)  
 
-- 📘 One topic or chapter per PR
-- 🤖 Mention if you used AI
-- 📝 Add a short note about your changes
+***
 
----
-
-## 🙋 Beginners Start Here
-
-If you're new to GitHub:
-
-- 📘 Read `BEGINNERS.md` — a simple how-to guide
-- 🖱️ Use GitHub’s web interface to contribute (no coding required!)
-- ❓ Ask for help in the Issues tab
-
----
-
-## 🚫 Do’s & Don’ts
-
-| ✅ Do                     | 🚫 Don’t                     |
-| ------------------------ | ---------------------------- |
-| 📁 Use the folder structure | 📤 Upload DOCX or PDF files    |
-| 📝 Write in Markdown        | 🤖 Post unchecked AI content    |
-| 🏷️ Use clear file names     | ❌ Add Class IX/XI material     |
-| 🎯 Keep content for Class X | 🗑️ Add junk or irrelevant stuff |
-
----
-
-## 🙌 Thanks for Contributing!
-
-Every contribution helps make learning easier 🌱  
-Let’s work together to make Class X studying smarter, clearer, and FREE 💙. Your support helps thousands of students study better and feel more confident. With your help, this project becomes more useful and keeps growing with every note added!
-
+⚡ Now my question to you:  
+👉 Do you also want me to draft a **motivational "CONTRIBUTERS.md" template** (with roles like *Top Student Contributor, Tech Helper, Teacher Guide*) so people feel excited to add their names?
