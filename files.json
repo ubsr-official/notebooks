@@ -2369,6 +2369,16 @@
             },
             {
               "type": "file",
+              "name": "SCIENCE13-PHYSICS-MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE13-PHYSICS-MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE14-PHYSICS-SOURCES_OF_ENERGY.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE14-PHYSICS-SOURCES_OF_ENERGY.pdf"
+            },
+            {
+              "type": "file",
               "name": "SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf"
             },
