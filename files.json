@@ -36,6 +36,23 @@
         },
         {
           "type": "folder",
+          "name": "INFORMATION-TECHNOLOGY",
+          "children": [
+            {
+              "type": "folder",
+              "name": "DIGITAL-DOCUMENTATION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "NOTES.md",
+                  "path": "AI-NOTES/INFORMATION-TECHNOLOGY/DIGITAL-DOCUMENTATION/NOTES.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "SCIENCE",
           "children": [
             {
