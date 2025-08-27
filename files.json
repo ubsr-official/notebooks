@@ -2371,6 +2371,16 @@
               "type": "file",
               "name": "SCIENCE5-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE5-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE6-LIFE_PROCESSES.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE6-LIFE_PROCESSES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE7-CONTROL_AND_COORDINATION.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE7-CONTROL_AND_COORDINATION.pdf"
             }
           ]
         }
