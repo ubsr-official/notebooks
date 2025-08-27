@@ -89,7 +89,7 @@ Contributing is easy — we **welcome everyone** (students, teachers, coders, ev
 1. 📂 Create a seperate folder for Contributions (recommended)
 2. ➕ Generate the File from AI or Generate Suggestions 
 3. 📝 Write in **Markdown format (`.md`)**  
-4. 🚀 Submit via Email ID or ask for Pull Request (Advanced) 
+4. 🚀 Submit via Email ID/WhatsApp or ask for Pull Request (Advanced) 
 
 ***
 
