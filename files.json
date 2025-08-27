@@ -2354,6 +2354,11 @@
             },
             {
               "type": "file",
+              "name": "SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf"
+            },
+            {
+              "type": "file",
               "name": "SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf"
             },
@@ -2381,6 +2386,16 @@
               "type": "file",
               "name": "SCIENCE7-CONTROL_AND_COORDINATION.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE7-CONTROL_AND_COORDINATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE8-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE8-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE9-BIOLOGY-HEREDITY_AND_EVOLUTION.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE9-BIOLOGY-HEREDITY_AND_EVOLUTION.pdf"
             }
           ]
         }
