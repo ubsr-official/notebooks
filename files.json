@@ -2278,6 +2278,11 @@
             },
             {
               "type": "file",
+              "name": "MATHS0-ANSWERS.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS0-ANSWERS.pdf"
+            },
+            {
+              "type": "file",
               "name": "MATHS1-REAL_NUMBERS.pdf",
               "path": "NCERT-EXAMPLER/MATHS/MATHS1-REAL_NUMBERS.pdf"
             },
@@ -2362,6 +2367,11 @@
                   "path": "NCERT-EXAMPLER/SCIENCE/SAMPLE-QUESTION-PAPER/SCIENCE-SET2.pdf"
                 }
               ]
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE0-ANSWERS.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE0-ANSWERS.pdf"
             },
             {
               "type": "file",
