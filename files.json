@@ -2381,6 +2381,82 @@
         },
         {
           "type": "folder",
+          "name": "MATHS",
+          "children": [
+            {
+              "type": "file",
+              "name": "10MATHS-CIRCLES.pdf",
+              "path": "NCERT-PDF/MATHS/10MATHS-CIRCLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "11MATHS-AREAS_REALTED_TO_CIRCLES.pdf",
+              "path": "NCERT-PDF/MATHS/11MATHS-AREAS_REALTED_TO_CIRCLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "12MATHS-SURFACE_AREAS_AND_VOLUMES.pdf",
+              "path": "NCERT-PDF/MATHS/12MATHS-SURFACE_AREAS_AND_VOLUMES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "13MATHS-STATISTICS.pdf",
+              "path": "NCERT-PDF/MATHS/13MATHS-STATISTICS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "14MATHS-PROBABILITY.pdf",
+              "path": "NCERT-PDF/MATHS/14MATHS-PROBABILITY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "1MATHS-REAL_NUMBERS.pdf",
+              "path": "NCERT-PDF/MATHS/1MATHS-REAL_NUMBERS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "2MATHS-POLYNOMIALS.pdf",
+              "path": "NCERT-PDF/MATHS/2MATHS-POLYNOMIALS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "3MATHS-PAIR_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf",
+              "path": "NCERT-PDF/MATHS/3MATHS-PAIR_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "4MATHS-QUADRATIC_EQUATIONS.pdf",
+              "path": "NCERT-PDF/MATHS/4MATHS-QUADRATIC_EQUATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "5MATHS-ARTHIMETIC_PROGRESSION.pdf",
+              "path": "NCERT-PDF/MATHS/5MATHS-ARTHIMETIC_PROGRESSION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "6MATHS-TRIANGLES.pdf",
+              "path": "NCERT-PDF/MATHS/6MATHS-TRIANGLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "7MATHS-COORDINATE_GEOMETRY.pdf",
+              "path": "NCERT-PDF/MATHS/7MATHS-COORDINATE_GEOMETRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "8MATHS-INTRODUCTION_TO_TRIGONOMETRY.pdf",
+              "path": "NCERT-PDF/MATHS/8MATHS-INTRODUCTION_TO_TRIGONOMETRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "9MATHS-SOME_APPLICATIONS_OF_TRIGONOMETRY.pdf",
+              "path": "NCERT-PDF/MATHS/9MATHS-SOME_APPLICATIONS_OF_TRIGONOMETRY.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "SCIENCE",
           "children": [
             {
@@ -2550,28 +2626,28 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY-AGE_OF_INDUSTRY-4.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY-AGE_OF_INDUSTRY-4.pdf"
+                  "name": "SSC-HISTORY1-RISE_OF_NATIONALISM_IN_EUROPE.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY1-RISE_OF_NATIONALISM_IN_EUROPE.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY-NATIONALISM_IN_INDIA-2.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY-NATIONALISM_IN_INDIA-2.pdf"
+                  "name": "SSC-HISTORY2-NATIONALISM_IN_INDIA.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY2-NATIONALISM_IN_INDIA.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY-PRINT_CULTURE_AND_THE_MODERN_WORLD-5.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY-PRINT_CULTURE_AND_THE_MODERN_WORLD-5.pdf"
+                  "name": "SSC-HISTORY3-THE_MAKING_OF_A_GLOBAL_WORLD.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY3-THE_MAKING_OF_A_GLOBAL_WORLD.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY-RISE_OF_NATIONALISM_IN_EUROPE-1.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY-RISE_OF_NATIONALISM_IN_EUROPE-1.pdf"
+                  "name": "SSC-HISTORY4-AGE_OF_INDUSTRY.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY4-AGE_OF_INDUSTRY.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY-THE_MAKING_OF_A_GLOBAL_WORLD-3.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY-THE_MAKING_OF_A_GLOBAL_WORLD-3.pdf"
+                  "name": "SSC-HISTORY5-PRINT_CULTURE_AND_THE_MODERN_WORLD.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY5-PRINT_CULTURE_AND_THE_MODERN_WORLD.pdf"
                 }
               ]
             },
