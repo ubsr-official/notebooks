@@ -2267,6 +2267,16 @@
             },
             {
               "type": "file",
+              "name": "MATHS11-AREA_RELATED_TO_CIRCLES.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS11-AREA_RELATED_TO_CIRCLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS12-SURFACE_AREAS_AND_VOLUMES.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS12-SURFACE_AREAS_AND_VOLUMES.pdf"
+            },
+            {
+              "type": "file",
               "name": "MATHS2-POLYNOMIALS.pdf",
               "path": "NCERT-EXAMPLER/MATHS/MATHS2-POLYNOMIALS.pdf"
             },
@@ -2294,6 +2304,11 @@
               "type": "file",
               "name": "MATHS7-COORDINATE_GEOMETRY.pdf",
               "path": "NCERT-EXAMPLER/MATHS/MATHS7-COORDINATE_GEOMETRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS8-INTRODUCTION_TO_TRIGONOMETRY_AND_ITS_APPLICATIONS.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS8-INTRODUCTION_TO_TRIGONOMETRY_AND_ITS_APPLICATIONS.pdf"
             },
             {
               "type": "file",
