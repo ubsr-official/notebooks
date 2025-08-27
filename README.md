@@ -86,10 +86,10 @@ Contributing is easy — we **welcome everyone** (students, teachers, coders, ev
 
 ### 🛠 Step-by-Step Guide  
 
-1. 📂 Go to the subject & chapter folder  
-2. ➕ Click `Add File` → `Create new file`  
-3. 📝 Write notes in **Markdown format (`.md`)**  
-4. 🚀 Submit via Pull Request  
+1. 📂 Create a seperate folder for Contributions (recommended)
+2. ➕ Generate the File from AI or Generate Suggestions 
+3. 📝 Write in **Markdown format (`.md`)**  
+4. 🚀 Submit via Email ID or ask for Pull Request (Advanced) 
 
 ***
 
