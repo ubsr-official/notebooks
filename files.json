@@ -2361,6 +2361,16 @@
               "type": "file",
               "name": "SCIENCE3-CHEMISTRY-METALS_AND_NON_METALS.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE3-CHEMISTRY-METALS_AND_NON_METALS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE4-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE4-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE5-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE5-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf"
             }
           ]
         }
