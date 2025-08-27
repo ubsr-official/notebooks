@@ -2342,6 +2342,17 @@
               "path": "NCERT-EXAMPLER/MATHS/MATHS9-CIRCLES.pdf"
             }
           ]
+        },
+        {
+          "type": "folder",
+          "name": "SCIENCE",
+          "children": [
+            {
+              "type": "file",
+              "name": "SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf"
+            }
+          ]
         }
       ]
     },
