@@ -2359,6 +2359,16 @@
             },
             {
               "type": "file",
+              "name": "SCIENCE11-PHYSICS-THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE11-PHYSICS-THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE12-PHYSICS-ELECTRICITY.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE12-PHYSICS-ELECTRICITY.pdf"
+            },
+            {
+              "type": "file",
               "name": "SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf"
             },
