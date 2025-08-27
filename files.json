@@ -2356,6 +2356,11 @@
               "type": "file",
               "name": "SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE3-CHEMISTRY-METALS_AND_NON_METALS.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE3-CHEMISTRY-METALS_AND_NON_METALS.pdf"
             }
           ]
         }
