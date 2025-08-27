@@ -1,6 +1,6 @@
 {
   "type": "folder",
-  "name": "NoteBook-X",
+  "name": "notebooks",
   "children": [
     {
       "type": "folder",
@@ -48,18 +48,8 @@
                   "path": "AI-NOTES/INFORMATION-TECHNOLOGY/DIGITAL-DOCUMENTATION/NOTES.md"
                 }
               ]
-            },
-            {
-              "type": "folder",
-              "name": "DIGITAL-SPREADSHEET",
-              "children": []
             }
           ]
-        },
-        {
-          "type": "folder",
-          "name": "MATHS",
-          "children": []
         },
         {
           "type": "folder",
@@ -2391,16 +2381,6 @@
         },
         {
           "type": "folder",
-          "name": "INFORMATION-TECHNOLOGY",
-          "children": []
-        },
-        {
-          "type": "folder",
-          "name": "MATHS",
-          "children": []
-        },
-        {
-          "type": "folder",
           "name": "SCIENCE",
           "children": [
             {
@@ -2826,34 +2806,8 @@
           "children": [
             {
               "type": "folder",
-              "name": "ENGLISH",
-              "children": []
-            },
-            {
-              "type": "folder",
-              "name": "INFORMATION-TECHNOLOGY",
-              "children": []
-            },
-            {
-              "type": "folder",
-              "name": "MATHS",
-              "children": []
-            },
-            {
-              "type": "folder",
               "name": "SCIENCE",
               "children": [
-                {
-                  "type": "folder",
-                  "name": "BIOLOGY",
-                  "children": [
-                    {
-                      "type": "folder",
-                      "name": "LIFE_PROCESSES",
-                      "children": []
-                    }
-                  ]
-                },
                 {
                   "type": "folder",
                   "name": "CHEMISTRY",
@@ -2870,43 +2824,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "folder",
-                  "name": "PHYSICS",
-                  "children": [
-                    {
-                      "type": "folder",
-                      "name": "LIGHT_REFLECTION_AND_REFRACTION",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "SOCIAL-SCIENCE",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "ECONOMICS",
-                  "children": []
-                },
-                {
-                  "type": "folder",
-                  "name": "GEOGRAPHY",
-                  "children": []
-                },
-                {
-                  "type": "folder",
-                  "name": "HISTORY",
-                  "children": []
-                },
-                {
-                  "type": "folder",
-                  "name": "POLITICAL-SCIENCE",
-                  "children": []
                 }
               ]
             },
