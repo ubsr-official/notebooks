@@ -2254,6 +2254,33 @@
     },
     {
       "type": "folder",
+      "name": "NCERT-EXAMPLER",
+      "children": [
+        {
+          "type": "folder",
+          "name": "MATHS",
+          "children": [
+            {
+              "type": "file",
+              "name": "MATHS1-REAL_NUMBERS.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS1-REAL_NUMBERS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS2-POLYNOMIALS.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS2-POLYNOMIALS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS3-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS3-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "folder",
       "name": "NCERT-PDF",
       "children": [
         {
