@@ -297,7 +297,106 @@ Creating custom styles allows document creators to maintain specific formatting 
 
 ---
 
+## 6. Inserting and Using Images
 
+Digital documents benefit significantly from visual elements. LibreOffice Writer provides comprehensive image handling capabilities, including **insertion, positioning, resizing, formatting, linking, grouping, and using the Gallery**.
+
+### 6.1 Image Insertion Methods
+
+- **Insert Menu:** Insert → Image → From File
+- **Toolbar:** Insert Image icon on Standard toolbar
+- **Drag and Drop:** Drag image files directly into document
+- **Copy/Paste:** Copy from other applications and paste
+- **Insert as Linked:** In Insert Image dialog, check “Link” for a file reference instead of embedding (also works with Ctrl+Shift drag or from Gallery with Ctrl+Shift)
+
+**To break a link and embed a linked image:**  
+Edit → External Links (or Edit > Links to External Files) → Select image → Break Link
+
+**Best Practices:** Keep linked images organized with your document for portability. Use embedded images for easy sharing.
+
+### 6.2 Positioning, Anchoring, and Wrapping
+
+Proper positioning affects layout and readability. Use these methods and options:
+
+- **Anchoring Types:**
+    - To Page: Image fixed relative to page (for headers, watermarks)
+    - To Paragraph: Image moves with paragraph (for illustrations)
+    - To Character / As Character: Inline with text (icons, small images)
+
+**Steps to anchor:**  
+Right-click image → Properties → (Type tab) Anchor option
+
+- **Text Wrapping Options:**
+    - None – no text beside image
+    - Before / After – text only on one side
+    - Parallel / Optimal / Through – text flows around image or overlays image
+
+**To set wrapping:**  
+Right-click image → Wrap submenu or use the Drawing Object Properties toolbar
+
+### 6.3 Modifying Images
+
+#### 6.3.1 Resizing Images
+
+- **Manual Resize:** Drag corner handles for proportional; use Shift for non-proportional (Writer 4.3+ defaults to proportional).
+- **Property Dialog:** Right-click → Properties → "Position and Size" to set width/height numerically; check "Keep ratio" for proportional resizing.
+- **F4 Panel:** Press F4 for quick size fields.
+
+**Shortcuts:**
+- F4: Position/size panel
+- Ctrl+D: Duplicate
+- Delete: Remove
+
+**Tip:** Always resize with corner handles to avoid distortion.
+
+#### 6.3.2 Grouping and Ungrouping
+
+- **To Group:** Ctrl+Click multiple objects (drawing shapes, frames, or images converted to shapes), right-click → Group
+- **To Ungroup:** Select group, right-click → Ungroup
+- **Edit within Group:** Double-click to “enter” group, double-click outside to exit
+- **Limitation:** Directly inserted images must be in frames/converted to shapes to fully group with other objects
+
+**Shortcuts:**
+- Ctrl+Shift+G: Group
+- Ctrl+Shift+Alt+G: Ungroup
+
+#### 6.3.3 Drawing Object Properties Toolbar
+
+**Access:**  
+Appears when object is selected, or View → Toolbars → Drawing Object Properties
+
+**Key Features:**  
+- **Anchor and Align**: Change anchor type and horizontal/vertical alignment
+- **Wrap settings**: Control text flow (all options above)
+- **Layer order**: Bring to front/back, move up/down layers
+- **Line/Border**: Set border style/width/color
+- **Fill/Area**: Set background fill/color/gradient/shadow
+- **Advanced**: 3D, rotate, flip, crop, transparency, shadow, object locking
+
+**Shortcuts:**  
+- Ctrl+Arrow: Move object layer order
+
+**Note:** Toolbar adapts to object type (image, shape, text box).
+
+### 6.4 Using the LibreOffice Gallery
+
+The Gallery contains hundreds of royalty-free graphics, clipart, diagrams, etc.
+
+- **Access:** Sidebar (Gallery tab), Insert > Media > Gallery, or Ctrl+Alt+3
+- **Insert:** Drag-and-drop (embed by default, hold Ctrl+Shift to link), or right-click for “Insert”, “Insert as Link” or “Insert as Copy”
+- **Edit:** Ungroup to modify many gallery objects (especially in Draw)
+- **Best Practice:** Use for copyright-free, consistent graphics in documents
+
+### 6.5 Best Practices and Footnotes
+
+- Use proportional resizing (corner handles or "Keep ratio") to avoid distortions ([see 6.3.1](#631-resizing-images))
+- Grouping is best with Draw shapes and frames; images may need conversion for full support ([see 6.3.2](#632-grouping-and-ungrouping))
+- Keep all linked images in a known folder, or embed them for easy sharing
+- Gallery objects can be customized further via Draw
+
+**Footnotes:**  
+- Proportional scaling is default from Writer 4.3 onward; use Shift for non-proportional resizing.  
+- Linked images keep file size small and stay up-to-date, but require file management when sharing.
 
 ---
 
