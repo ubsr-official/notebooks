@@ -2858,17 +2858,6 @@
       ]
     },
     {
-      "type": "folder",
-      "name": "__pycache__",
-      "children": [
-        {
-          "type": "file",
-          "name": "fmtree.cpython-313.pyc",
-          "path": "__pycache__/fmtree.cpython-313.pyc"
-        }
-      ]
-    },
-    {
       "type": "file",
       "name": "files.json",
       "path": "files.json"
