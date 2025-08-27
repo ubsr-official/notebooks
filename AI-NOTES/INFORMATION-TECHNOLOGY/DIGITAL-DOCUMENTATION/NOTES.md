@@ -400,51 +400,113 @@ Image positioning determines how images integrate with text content and affects 
 
 **Footnote 11**: Proper image anchoring is crucial for document stability, especially when content is edited and pages reflow.
 
-### 6.3 Modifying Image
+6.3 Modifying Image (Enhanced)
+LibreOffice Writer provides comprehensive image editing capabilities for adjustments and enhancements, including resizing, grouping/ungrouping, and detailed property modifications.
 
-LibreOffice Writer provides built-in image editing capabilities for basic adjustments and enhancements.
+6.3.1 Resizing Images
+Manual Resize: Select the image, then drag its corner handles to resize proportionally (maintain aspect ratio). For LibreOffice Writer 4.3+, dragging corner handles by default keeps proportions; for non-proportional resizing, hold the Shift key while dragging. In older versions, the Shift key works oppositely.
 
-**Image Toolbar Functions:**
+Property Dialog: Right-click the image, choose "Properties," then use the "Position and Size" tab. Enter exact width/height and check "Keep ratio" for proportional resize. You can also scale by percentage.
 
-**1. Cropping**
-- Remove unwanted portions of image
-- Steps: Select image → Click Crop tool → Drag crop handles → Press Enter
+F4 Panel: Press F4 after selecting an image to open a quick panel for width, height, and lock aspect ratio options.
 
-**2. Rotation and Flipping**
-- Rotate: 90°, 180°, 270°, or custom angles
-- Flip: Horizontal or vertical mirroring
-- Steps: Select image → Use rotation/flip buttons on toolbar
+Best Practice: Always use corner handles for proportional resizing and check layout results before printing or sharing.
 
-**3. Color Adjustments**
-- **Graphics Mode**: Color, Grayscale, Black & White, Watermark
-- **Brightness**: Adjust image lightness (-100% to +100%)
-- **Contrast**: Adjust difference between light and dark (-100% to +100%)
-- **Transparency**: Make image see-through (0% to 100%)
+Shortcut Keys:
 
-**4. Image Filters**
-- Apply special effects to images
-- Available filters: Invert, Smooth, Sharpen, RemoveNoise, Charcoal, Relief, Mosaic, Pop Art, and others
+F4 − Position and Size panel
 
-**Advanced Editing:**
-1. Right-click image → Properties
-2. Use tabs for detailed control:
-   - **Type**: Size, position, anchor
-   - **Crop**: Precise cropping with measurements  
-   - **Borders**: Add frames and shadows
-   - **Transparency**: Advanced transparency effects
-   - **Image**: File location and linking options
+Ctrl+D − Duplicate image
 
-**Image Compression:**
-1. Right-click image → Compress Image
-2. Set quality level and resolution
-3. Reduces file size for better document performance
+Delete − Remove image
 
-**Shortcut Keys:**
-- **Delete**: Remove selected image
-- **Ctrl+D**: Duplicate selected image
-- **Ctrl+Shift+G**: Group multiple selected objects
+Footnote: Proportional scaling is default from Writer 4.3 onward; use Shift for non-proportional resizing.
 
-**Footnote 12**: While LibreOffice Writer provides basic image editing capabilities, complex modifications are better performed in dedicated image editing software before insertion.
+6.3.2 Grouping and Ungrouping Objects
+Grouping allows combining drawing objects, text boxes, and (sometimes) images (if converted to shapes or placed in frames), enabling them to be moved/resized as a single unit.
+
+To Group: Select multiple objects with Ctrl+Click, then right-click and select "Group" or use Format > Group.
+
+To Ungroup: Select the group, right-click, and select "Ungroup."
+
+Edit within Group: Double-click the group to "enter" and edit individual objects; double-click outside to exit.
+
+Limitations: Directly inserted images can't always be grouped with shapes unless they're converted or framed.
+
+Shortcut Keys:
+
+Ctrl+Shift+G − Group
+
+Ctrl+Shift+Alt+G − Ungroup
+
+Ctrl − Add to selection
+
+Double-click group − Enter/exit edit
+
+Footnote: Grouping is more flexible for drawing objects/shapes; images require conversion/frames for full grouping capability.
+
+6.3.3 Drawing Object Properties Toolbar: Detailed Features
+Activation: Appears automatically when a drawing object/image is selected or manually via View > Toolbars > Drawing Object Properties.
+
+Key Functions:
+
+Anchor & Align: Set anchoring (to page, paragraph, character, as character) and alignment (left/center/right/top/middle/bottom)
+
+Wrapping: Choose text flow options (off, through, page wrap, left/right, first paragraph)
+
+Borders & Lines: Adjust line style, width, color, transparency
+
+Fill/Area: Set fill (none, color, gradient, bitmap, pattern), fill color, transparency, gradient, shadow
+
+Layer Order: Bring to front/back, move up/down layers
+
+Advanced: 3D effects, rotation, flipping, cropping, shadow, transparency, locking
+
+Toolbar Workflow: Select an object and use the toolbar at the bottom, which adapts to the type of object selected (image/shape/text box) for all adjustments.
+
+Shortcut Keys:
+
+Ctrl+Shift+G / Ctrl+Shift+Alt+G − Group/Ungroup
+
+Ctrl+Arrow − Layer order adjustments
+
+Footnote: Toolbar adapts to show only relevant tools based on the selected object.
+
+Directly after the above, add the following as a new section 6.4 Inserting Images: Linking, Breaking Link, and Using LibreOffice Gallery:
+6.4 Inserting Images: Linking, Breaking Link, and Using LibreOffice Gallery
+6.4.1 Linking vs. Embedding
+Embedded: Default; the image is stored inside the Writer document. Larger file size, but portable and unchanged if the source file is modified.
+
+Linked: Use the "Link" option in the Insert Image dialog (or while dragging with Ctrl+Shift). This keeps the document size smaller and auto-updates if the source file changes. Linked images require external file management.
+
+To Insert Linked Image:
+
+Insert > Image: Select file, check "Link," click Open, confirm link.
+
+Drag-drop: Drag in from your file manager with Ctrl+Shift held down.
+
+From Gallery: Hold Shift+Ctrl while dragging from Gallery for a linked insertion.
+
+6.4.2 Breaking Image Links (Embed after Linking)
+Edit > External Links (or Edit > Links to External Files): In the dialog, select any linked image and click "Break Link." Confirm, and the image becomes embedded (the document is now portable).
+
+6.4.3 LibreOffice Gallery
+Access: Sidebar (Gallery tab), Insert > Media > Gallery, or Ctrl+Alt+3.
+
+Use: Drag desired item into your document, or right-click for Insert, Insert as Link, Insert as Copy.
+
+Gallery Features: Hundreds of royalty-free graphics—icons, arrows, backgrounds, diagrams, symbols, educational images, etc.
+
+Editing: Many gallery objects are editable (especially in Draw or if ungrouped).
+
+Best Practices:
+
+Use the Gallery for consistent, copyright-free images.
+
+Keep your document and all linked images in a relative folder structure for easy sharing.
+
+Footnote: Linked images keep file size small and remain up-to-date with source changes, but require careful file management if sharing with others.
+
 
 ---
 
