@@ -2267,6 +2267,11 @@
             },
             {
               "type": "file",
+              "name": "MATHS10-CONSTRUCTION.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS10-CONSTRUCTION.pdf"
+            },
+            {
+              "type": "file",
               "name": "MATHS11-AREA_RELATED_TO_CIRCLES.pdf",
               "path": "NCERT-EXAMPLER/MATHS/MATHS11-AREA_RELATED_TO_CIRCLES.pdf"
             },
@@ -2274,6 +2279,11 @@
               "type": "file",
               "name": "MATHS12-SURFACE_AREAS_AND_VOLUMES.pdf",
               "path": "NCERT-EXAMPLER/MATHS/MATHS12-SURFACE_AREAS_AND_VOLUMES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS13-STATISTICS_AND_PROBABILITY.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS13-STATISTICS_AND_PROBABILITY.pdf"
             },
             {
               "type": "file",
