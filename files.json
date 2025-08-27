@@ -2348,6 +2348,22 @@
           "name": "SCIENCE",
           "children": [
             {
+              "type": "folder",
+              "name": "SAMPLE-QUESTION-PAPER",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SET1.pdf",
+                  "path": "NCERT-EXAMPLER/SCIENCE/SAMPLE-QUESTION-PAPER/SCIENCE-SET1.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SET2.pdf",
+                  "path": "NCERT-EXAMPLER/SCIENCE/SAMPLE-QUESTION-PAPER/SCIENCE-SET2.pdf"
+                }
+              ]
+            },
+            {
               "type": "file",
               "name": "SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf"
