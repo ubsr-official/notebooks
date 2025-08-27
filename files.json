@@ -2274,6 +2274,31 @@
               "type": "file",
               "name": "MATHS3-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf",
               "path": "NCERT-EXAMPLER/MATHS/MATHS3-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS4-QUADRATIC_EQUATIONS.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS4-QUADRATIC_EQUATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS5-ARTHIMETIC_PROGRESSIONS.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS5-ARTHIMETIC_PROGRESSIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS6-TRIANGLES.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS6-TRIANGLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS7-COORDINATE_GEOMETRY.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS7-COORDINATE_GEOMETRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS9-CIRCLES.pdf",
+              "path": "NCERT-EXAMPLER/MATHS/MATHS9-CIRCLES.pdf"
             }
           ]
         }
