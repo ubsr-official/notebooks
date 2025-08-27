@@ -2258,6 +2258,11 @@
       ]
     },
     {
+      "type": "file",
+      "name": "CONTRIBUTERS.md",
+      "path": "CONTRIBUTERS.md"
+    },
+    {
       "type": "folder",
       "name": "NCERT-PDF",
       "children": [
