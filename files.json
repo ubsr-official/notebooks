@@ -2254,7 +2254,7 @@
     },
     {
       "type": "folder",
-      "name": "NCERT-EXAMPLER",
+      "name": "NCERT-EXAMPLER[OLD]",
       "children": [
         {
           "type": "folder",
@@ -2267,84 +2267,84 @@
                 {
                   "type": "file",
                   "name": "MATHS-SET1.pdf",
-                  "path": "NCERT-EXAMPLER/MATHS/DESIGN-OF-QUESTION-PAPER/MATHS-SET1.pdf"
+                  "path": "NCERT-EXAMPLER[OLD]/MATHS/DESIGN-OF-QUESTION-PAPER/MATHS-SET1.pdf"
                 },
                 {
                   "type": "file",
                   "name": "MATHS-SET2.pdf",
-                  "path": "NCERT-EXAMPLER/MATHS/DESIGN-OF-QUESTION-PAPER/MATHS-SET2.pdf"
+                  "path": "NCERT-EXAMPLER[OLD]/MATHS/DESIGN-OF-QUESTION-PAPER/MATHS-SET2.pdf"
                 }
               ]
             },
             {
               "type": "file",
               "name": "MATHS0-ANSWERS.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS0-ANSWERS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS0-ANSWERS.pdf"
             },
             {
               "type": "file",
               "name": "MATHS1-REAL_NUMBERS.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS1-REAL_NUMBERS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS1-REAL_NUMBERS.pdf"
             },
             {
               "type": "file",
               "name": "MATHS10-CONSTRUCTION.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS10-CONSTRUCTION.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS10-CONSTRUCTION.pdf"
             },
             {
               "type": "file",
               "name": "MATHS11-AREA_RELATED_TO_CIRCLES.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS11-AREA_RELATED_TO_CIRCLES.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS11-AREA_RELATED_TO_CIRCLES.pdf"
             },
             {
               "type": "file",
               "name": "MATHS12-SURFACE_AREAS_AND_VOLUMES.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS12-SURFACE_AREAS_AND_VOLUMES.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS12-SURFACE_AREAS_AND_VOLUMES.pdf"
             },
             {
               "type": "file",
               "name": "MATHS13-STATISTICS_AND_PROBABILITY.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS13-STATISTICS_AND_PROBABILITY.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS13-STATISTICS_AND_PROBABILITY.pdf"
             },
             {
               "type": "file",
               "name": "MATHS2-POLYNOMIALS.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS2-POLYNOMIALS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS2-POLYNOMIALS.pdf"
             },
             {
               "type": "file",
               "name": "MATHS3-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS3-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS3-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf"
             },
             {
               "type": "file",
               "name": "MATHS4-QUADRATIC_EQUATIONS.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS4-QUADRATIC_EQUATIONS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS4-QUADRATIC_EQUATIONS.pdf"
             },
             {
               "type": "file",
               "name": "MATHS5-ARTHIMETIC_PROGRESSIONS.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS5-ARTHIMETIC_PROGRESSIONS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS5-ARTHIMETIC_PROGRESSIONS.pdf"
             },
             {
               "type": "file",
               "name": "MATHS6-TRIANGLES.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS6-TRIANGLES.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS6-TRIANGLES.pdf"
             },
             {
               "type": "file",
               "name": "MATHS7-COORDINATE_GEOMETRY.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS7-COORDINATE_GEOMETRY.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS7-COORDINATE_GEOMETRY.pdf"
             },
             {
               "type": "file",
               "name": "MATHS8-INTRODUCTION_TO_TRIGONOMETRY_AND_ITS_APPLICATIONS.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS8-INTRODUCTION_TO_TRIGONOMETRY_AND_ITS_APPLICATIONS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS8-INTRODUCTION_TO_TRIGONOMETRY_AND_ITS_APPLICATIONS.pdf"
             },
             {
               "type": "file",
               "name": "MATHS9-CIRCLES.pdf",
-              "path": "NCERT-EXAMPLER/MATHS/MATHS9-CIRCLES.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS9-CIRCLES.pdf"
             }
           ]
         },
@@ -2359,99 +2359,99 @@
                 {
                   "type": "file",
                   "name": "SCIENCE-SET1.pdf",
-                  "path": "NCERT-EXAMPLER/SCIENCE/SAMPLE-QUESTION-PAPER/SCIENCE-SET1.pdf"
+                  "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SAMPLE-QUESTION-PAPER/SCIENCE-SET1.pdf"
                 },
                 {
                   "type": "file",
                   "name": "SCIENCE-SET2.pdf",
-                  "path": "NCERT-EXAMPLER/SCIENCE/SAMPLE-QUESTION-PAPER/SCIENCE-SET2.pdf"
+                  "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SAMPLE-QUESTION-PAPER/SCIENCE-SET2.pdf"
                 }
               ]
             },
             {
               "type": "file",
               "name": "SCIENCE0-ANSWERS.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE0-ANSWERS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE0-ANSWERS.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE10-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE10-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE10-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE11-PHYSICS-THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE11-PHYSICS-THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE11-PHYSICS-THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE12-PHYSICS-ELECTRICITY.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE12-PHYSICS-ELECTRICITY.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE12-PHYSICS-ELECTRICITY.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE13-PHYSICS-MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE13-PHYSICS-MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE13-PHYSICS-MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE14-PHYSICS-SOURCES_OF_ENERGY.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE14-PHYSICS-SOURCES_OF_ENERGY.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE14-PHYSICS-SOURCES_OF_ENERGY.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE15-BIOLOGY-OUR_ENVIRONMENT.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE16-CHEMISTRY-MANAGEMENT_OF_NATURAL_RESOURCES.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE16-CHEMISTRY-MANAGEMENT_OF_NATURAL_RESOURCES.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE16-CHEMISTRY-MANAGEMENT_OF_NATURAL_RESOURCES.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE3-CHEMISTRY-METALS_AND_NON_METALS.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE3-CHEMISTRY-METALS_AND_NON_METALS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE3-CHEMISTRY-METALS_AND_NON_METALS.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE4-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE4-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE4-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE5-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE5-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE5-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf"
             },
             {
               "type": "file",
-              "name": "SCIENCE6-LIFE_PROCESSES.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE6-LIFE_PROCESSES.pdf"
+              "name": "SCIENCE6-BIOLOGY-LIFE_PROCESSES.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE6-BIOLOGY-LIFE_PROCESSES.pdf"
             },
             {
               "type": "file",
-              "name": "SCIENCE7-CONTROL_AND_COORDINATION.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE7-CONTROL_AND_COORDINATION.pdf"
+              "name": "SCIENCE7-BIOLOGY-CONTROL_AND_COORDINATION.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE7-BIOLOGY-CONTROL_AND_COORDINATION.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE8-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE8-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE8-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE9-BIOLOGY-HEREDITY_AND_EVOLUTION.pdf",
-              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE9-BIOLOGY-HEREDITY_AND_EVOLUTION.pdf"
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE9-BIOLOGY-HEREDITY_AND_EVOLUTION.pdf"
             }
           ]
         }
