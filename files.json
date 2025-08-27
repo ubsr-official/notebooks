@@ -2351,6 +2351,11 @@
               "type": "file",
               "name": "SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf",
               "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf",
+              "path": "NCERT-EXAMPLER/SCIENCE/SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf"
             }
           ]
         }
