@@ -2261,6 +2261,22 @@
           "name": "MATHS",
           "children": [
             {
+              "type": "folder",
+              "name": "DESIGN-OF-QUESTION-PAPER",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "MATHS-SET1.pdf",
+                  "path": "NCERT-EXAMPLER/MATHS/DESIGN-OF-QUESTION-PAPER/MATHS-SET1.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHS-SET2.pdf",
+                  "path": "NCERT-EXAMPLER/MATHS/DESIGN-OF-QUESTION-PAPER/MATHS-SET2.pdf"
+                }
+              ]
+            },
+            {
               "type": "file",
               "name": "MATHS1-REAL_NUMBERS.pdf",
               "path": "NCERT-EXAMPLER/MATHS/MATHS1-REAL_NUMBERS.pdf"
