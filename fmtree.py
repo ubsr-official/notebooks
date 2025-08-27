@@ -8,6 +8,7 @@ EXCLUDED_ROOT_FILES = {
     "index.html",
     "favicon.png",
     "fallback.html"
+
 }
 
 def build_tree(path, rel_path=""):
