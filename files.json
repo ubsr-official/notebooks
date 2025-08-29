@@ -2262,6 +2262,11 @@
           "children": [
             {
               "type": "file",
+              "name": "BENGALI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-18/BENGALI-SQP.pdf"
+            },
+            {
+              "type": "file",
               "name": "ENGLISH-SQP.pdf",
               "path": "CBSE-SQPs/CBSE-18/ENGLISH-SQP.pdf"
             },
@@ -2272,8 +2277,28 @@
             },
             {
               "type": "file",
+              "name": "INFORMATION_COMMUNICATION_AND_TECHNOLOGY-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-18/INFORMATION_COMMUNICATION_AND_TECHNOLOGY-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-18/INFORMATION_TECHNOLOGY-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-18/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
               "name": "SCIENCE-SQP.pdf",
               "path": "CBSE-SQPs/CBSE-18/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-18/SOCIAL_SCIENCE-SQP.pdf"
             }
           ]
         },
