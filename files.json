@@ -2258,6 +2258,37 @@
       "children": [
         {
           "type": "folder",
+          "name": "CBSE-17",
+          "children": [
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-17/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-17/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-17/INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-17/INFORMATION_TECHNOLOGY-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-17/SCIENCE-SQP.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "CBSE-18",
           "children": [
             {
@@ -2277,8 +2308,8 @@
             },
             {
               "type": "file",
-              "name": "INFORMATION_COMMUNICATION_AND_TECHNOLOGY-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-18/INFORMATION_COMMUNICATION_AND_TECHNOLOGY-SQP.pdf"
+              "name": "INFORMATION_AND_COMMUNICATIO_TECHNOLOGY-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-18/INFORMATION_AND_COMMUNICATIO_TECHNOLOGY-SQP.pdf"
             },
             {
               "type": "file",
