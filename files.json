@@ -4072,6 +4072,34 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "folder",
+              "name": "CBSE-2025",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "BENGALI",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "7_Bengali.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/BENGALI/7_Bengali.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "INFORMATION-TECHNOLOGY",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "89_Information_Technology.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/INFORMATION-TECHNOLOGY/89_Information_Technology.pdf"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
