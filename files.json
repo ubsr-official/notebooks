@@ -2282,8 +2282,18 @@
             },
             {
               "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-17/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
               "name": "SCIENCE-SQP.pdf",
               "path": "CBSE-SQPs/CBSE-17/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-17/SOCIAL_SCIENCE-SQP.pdf"
             }
           ]
         },
