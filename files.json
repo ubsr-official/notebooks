@@ -2698,6 +2698,42 @@
           "name": "CBSE-26",
           "children": [
             {
+              "type": "folder",
+              "name": "MARKING-SCHEME",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-MS.pdf",
+                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/BENGALI-MS.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-MS.pdf",
+                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/ENGLISH-MS.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-MS.pdf",
+                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/HINDI-MS.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-MS.pdf",
+                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/MATHEMATICS-MS.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-MS.pdf",
+                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/SCIENCE-MS.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-MS.pdf",
+                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/SOCIAL_SCIENCE-MS.pdf"
+                }
+              ]
+            },
+            {
               "type": "file",
               "name": "BENGALI-SQP.pdf",
               "path": "CBSE-SQPs/CBSE-26/BENGALI-SQP.pdf"
