@@ -8,6 +8,1694 @@
       "children": [
         {
           "type": "folder",
+          "name": "CBSE-PAQs",
+          "children": [
+            {
+              "type": "folder",
+              "name": "CBSE-2022",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "BENGALI",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "7 Bengali.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/BENGALI/7 Bengali.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "ENGLISH",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "2-1-1 English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-1-1 English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-1-2 English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-1-2 English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-1-3 English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-1-3 English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-2-1 (English L & L).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-2-1 (English L & L).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-2-2 (English L & L).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-2-2 (English L & L).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-2-3 (English L & L).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-2-3 (English L & L).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-3-1 English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-3-1 English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-3-2 English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-3-2 English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-3-3 English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-3-3 English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-4-1 (English L & L).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-4-1 (English L & L).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-4-2 (English L & L).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-4-2 (English L & L).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-4-3 (English L & L).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/ENGLISH/2-4-3 (English L & L).pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "HINDI-A",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "3-1-1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-1-1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-1-2  Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-1-2  Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-1-3  Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-1-3  Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-2-1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-2-1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-2-2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-2-2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-2-3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-2-3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-3-1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-3-1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-3-2 Hindi a.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-3-2 Hindi a.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-3-3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-3-3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-4-1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-4-1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-4-2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-4-2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-4-3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-A/3-4-3 Hindi A.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "HINDI-B",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "4-1-1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-1-1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-1-2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-1-2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-1-3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-1-3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-2-1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-2-1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-2-2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-2-2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-2-3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-2-3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-3-1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-3-1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-3-2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-3-2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-3-3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-3-3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-4-1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-4-1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-4-2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-4-2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4-4-3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/HINDI-B/4-4-3 Hindi B.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "INFORMATION-TECHNOLOGY",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "89 Information Technology.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/INFORMATION-TECHNOLOGY/89 Information Technology.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "MATHS",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "30-1-1 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-1-1 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-1-2 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-1-2 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-1-3 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-1-3 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-2-1 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-2-1 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-2-2 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-2-2 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-2-3 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-2-3 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-3-1 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-3-1 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-3-2 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-3-2 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-3-3 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-3-3 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-4-1 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-4-1 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-4-2 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-4-2 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-4-3 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-4-3 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-B-5 Maths Std. for VI candidates.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/30-B-5 Maths Std. for VI candidates.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "40-3-1 Maths Std Punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/40-3-1 Maths Std Punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "40-B-5 Maths Standard Punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/40-B-5 Maths Standard Punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "46-2-1 Mathematics Std. Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/46-2-1 Mathematics Std. Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "46-2-2 Mathematics Std. Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/46-2-2 Mathematics Std. Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "46-2-3 Mathematics Std. Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/MATHS/46-2-3 Mathematics Std. Urdu version.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "31-1-1 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-1-1 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-1-2 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-1-2 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-1-3 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-1-3 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-2-1 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-2-1 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-2-2 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-2-2 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-2-3 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-2-3 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-3-1 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-3-1 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-3-2 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-3-2 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-3-3 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-3-3 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-4-1 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-4-1 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-4-2 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-4-2 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-4-3 Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-4-3 Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-B-5 Science for VI candidates.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/31-B-5 Science for VI candidates.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "41-3-1 Science Punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/41-3-1 Science Punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "41-3-2 Science Punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/41-3-2 Science Punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "41-3-3 Science Punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/41-3-3 Science Punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "41-B-5 Science for VI candidates punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/41-B-5 Science for VI candidates punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "47-2-2 Science Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/47-2-2 Science Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "47-2-2 Science Urdu version.pdf 1.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/47-2-2 Science Urdu version.pdf 1.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "47-2-3 Science Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SCIENCE/47-2-3 Science Urdu version.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SOCIAL-SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "32-1-1 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-1-1 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-1-2 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-1-2 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-1-3 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-1-3 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-2-1 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-2-1 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-2-2 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-2-2 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-2-3 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-2-3 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-3-1 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-3-1 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-3-2 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-3-2 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-3-3 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-3-3 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-4-1 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-4-1 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-4-2 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-4-2 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-4-3 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-4-3 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "42-3-1 Social Science punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/42-3-1 Social Science punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "42-3-2 Social Science punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/42-3-2 Social Science punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "42-3-3 Social Science punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/42-3-3 Social Science punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "48-2-1 Social Science urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/48-2-1 Social Science urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "48-2-2 Social Science urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/48-2-2 Social Science urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "48-2-3 Social Science Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/48-2-3 Social Science Urdu version.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "CBSE-2023",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "BENGALI",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "07_BENGALI.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/BENGALI/07_BENGALI.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "English_Language_Literature",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "2-1-1 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-1-1 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-1-2 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-1-2 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-1-3 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-1-3 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-2-1 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-2-1 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-2-2 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-2-2 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-2-3 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-2-3 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-4-1 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-4-1 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-4-2 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-4-2 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-4-3 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-4-3 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-5-1 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-5-1 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-5-2 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-5-2 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-5-3 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-5-3 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-6-1 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-6-1 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-6-2 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-6-2 ENGLISH L_L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-6-3 ENGLISH L_L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/English_Language_Literature/2-6-3 ENGLISH L_L.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "HINDI-A",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "3_1_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_1_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_1_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_1_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_1_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_1_3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_2_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_2_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_2_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_2_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_2_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_2_3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_4_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_4_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_4_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_4_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_4_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_4_3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_5_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_5_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_5_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_5_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_5_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_5_3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_6_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_6_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_6_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_6_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_6_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-A/3_6_3 Hindi A.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "HINDI-B",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "4_1_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_1_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_1_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_1_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_1_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_1_3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_2_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_2_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_2_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_2_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_2_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_2_3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_4_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_4_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_4_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_4_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_4_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_4_3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_5_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_5_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_5_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_5_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_5_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_5_3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_6_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_6_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_6_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_6_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_6_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/HINDI-B/4_6_3 Hindi B.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "INFORMATION-TECHNOLOGY",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "89_Information_Technology.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/INFORMATION-TECHNOLOGY/89_Information_Technology.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "MATHS",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "30_1_1_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_1_1_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_1_2_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_1_2_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_1_3_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_1_3_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_2_1_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_2_1_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_2_2_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_2_2_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_2_3_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_2_3_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_4_1 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_4_1 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_4_2 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_4_2 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_4_3 Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_4_3 Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_5_1_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_5_1_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_5_2_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_5_2_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_5_3_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_5_3_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_6_1_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_6_1_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_6_2_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_6_2_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_6_3_Maths Standard.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_6_3_Maths Standard.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_B_5_Maths Std. for VI candidates.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_B_5_Maths Std. for VI candidates.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30_B_Maths Std. for VI candidates Punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/30_B_Maths Std. for VI candidates Punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "40_2_1_Maths Standard Punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/40_2_1_Maths Standard Punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "40_2_2_Maths Standard Punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/40_2_2_Maths Standard Punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "40_2_3_Maths Standard Punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/40_2_3_Maths Standard Punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "46_4_1 Maths Std. Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/46_4_1 Maths Std. Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "46_4_2 Maths Std. Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/46_4_2 Maths Std. Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "46_4_3 Maths Std. Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/46_4_3 Maths Std. Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "46_B_Maths Std. for VI candidates Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/MATHS/46_B_Maths Std. for VI candidates Urdu version.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "31_1_1_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_1_1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_1_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_1_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_1_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_1_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_2_1_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_2_1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_2_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_2_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_2_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_2_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_4_1_ Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_4_1_ Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_4_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_4_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_4_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_4_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_5_1_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_5_1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_5_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_5_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_5_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_5_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_6_1_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_6_1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_6_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_6_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_6_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_6_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_B_5_Science for VI.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/31_B_5_Science for VI.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "41_2_1_Science punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/41_2_1_Science punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "41_2_2_Science punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/41_2_2_Science punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "41_2_3_Science punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/41_2_3_Science punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "41_B_5_Science for VI punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/41_B_5_Science for VI punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "47-4-1 Science Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/47-4-1 Science Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "47-4-2 Science Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/47-4-2 Science Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "47-4-3 Science Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/47-4-3 Science Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "47_B_5_Science for VI Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SCIENCE/47_B_5_Science for VI Urdu version.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SOCIAL-SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "32_1_1 SOCIAL SCIENCE.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_1_1 SOCIAL SCIENCE.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_1_2 SOCIAL SCIENCE.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_1_2 SOCIAL SCIENCE.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_1_3 SOCIAL SCIENCE.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_1_3 SOCIAL SCIENCE.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_2_1 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_2_1 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_2_2 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_2_2 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_2_3 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_2_3 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_4_1 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_4_1 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_4_2 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_4_2 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_4_3 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_4_3 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_5_1 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_5_1 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_5_2 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_5_2 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_5_3 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_5_3 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_6_1 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_6_1 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_6_2 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_6_2 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_6_3 Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_6_3 Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "42_2_1 Social Science punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/42_2_1 Social Science punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "42_2_2 Social Science punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/42_2_2 Social Science punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "42_2_3 Social Science punjabi version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/42_2_3 Social Science punjabi version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "48-4-1 Social Science Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/48-4-1 Social Science Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "48-4-2 Social Science Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/48-4-2 Social Science Urdu version.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "48-4-3 Social Science Urdu version.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/48-4-3 Social Science Urdu version.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "CBSE-2024",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "BENGALI",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "7_Bengali.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/BENGALI/7_Bengali.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "ENGLISH",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "2_1_1_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_1_1_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_1_2_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_1_2_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_1_3_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_1_3_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_2_1_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_2_1_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_2_2_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_2_2_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_2_3_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_2_3_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_3_1_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_3_1_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_3_2_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_3_2_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_3_3_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_3_3_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_4_1_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_4_1_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_4_2_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_4_2_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_4_3_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_4_3_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_5_1_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_5_1_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_5_2_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_5_2_English L & L.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2_5_3_English L & L.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/ENGLISH/2_5_3_English L & L.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "HINDI-A",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "3_1_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_1_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_1_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_1_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_1_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_1_3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_2_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_2_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_2_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_2_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_2_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_2_3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_3_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_3_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_3_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_3_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_3_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_3_3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_4_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_4_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_4_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_4_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_4_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_4_3 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_5_1 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_5_1 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_5_2 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_5_2 Hindi A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3_5_3 Hindi A.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-A/3_5_3 Hindi A.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "HINDI-B",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "4_1_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_1_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_1_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_1_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_1_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_1_3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_2_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_2_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_2_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_2_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_2_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_2_3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_3_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_3_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_3_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_3_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_3_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_3_3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_4_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_4_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_4_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_4_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_4_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_4_3 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_5_1 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_5_1 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_5_2 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_5_2 Hindi B.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "4_5_3 Hindi B.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/HINDI-B/4_5_3 Hindi B.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "INFORMATION-TECHNOLOGY",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "89_Information_Technology.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/INFORMATION-TECHNOLOGY/89_Information_Technology.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "MATHS",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "30(B) Mathematics.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30(B) Mathematics.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-1-1(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-1-1(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-1-2(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-1-2(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-1-3(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-1-3(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-2-1(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-2-1(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-2-2(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-2-2(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-2-3(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-2-3(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-3-1(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-3-1(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-3-2(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-3-2(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-3-3(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-3-3(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-4-1(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-4-1(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-4-2(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-4-2(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-4-3(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-4-3(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-5-1(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-5-1(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-5-2(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-5-2(Mathematics Standard).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "30-5-3(Mathematics Standard).pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/MATHS/30-5-3(Mathematics Standard).pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "31_1_1_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_1_1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_1_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_1_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_1_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_1_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_2_1_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_2_1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_2_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_2_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_2_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_2_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_3_1_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_3_1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_3_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_3_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_3_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_3_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_4_1_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_4_1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_4_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_4_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_4_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_4_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_5_1_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_5_1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_5_2_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_5_2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_5_3_Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_5_3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31_B_Science_VI.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SCIENCE/31_B_Science_VI.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SOCIAL-SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "32_1_1_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_1_1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_1_2_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_1_2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_1_3_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_1_3_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_2_1_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_2_1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_2_2_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_2_2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_2_3_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_2_3_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_3_1_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_3_1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_3_2_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_3_2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_3_3_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_3_3_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_4_1_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_4_1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_4_2_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_4_2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_4_3_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_4_3_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_5_1_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_5_1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_5_2_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_5_2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32_5_3_Social Science.pdf",
+                      "path": "AI-NOTES/CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_5_3_Social Science.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "ENGLISH",
           "children": [
             {
@@ -566,1685 +2254,128 @@
     },
     {
       "type": "folder",
-      "name": "CBSE-PAQs",
+      "name": "ASSIGNMENTS",
       "children": [
         {
           "type": "folder",
-          "name": "CBSE-2022",
+          "name": "SUMMER-VACATION",
           "children": [
             {
               "type": "folder",
-              "name": "BENGALI",
+              "name": "ASSIGNMENTS",
               "children": [
                 {
+                  "type": "folder",
+                  "name": "BENGALI",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "BENGALI-WS.pdf",
+                      "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/BENGALI/BENGALI-WS.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "ENGLISH",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "ENGLISH-WS1.pdf",
+                      "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/ENGLISH/ENGLISH-WS1.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "ENGLISH-WS2.pdf",
+                      "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/ENGLISH/ENGLISH-WS2.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "HINDI",
+                  "children": [
+                    {
+                      "type": "folder",
+                      "name": "LITERATURE",
+                      "children": [
+                        {
+                          "type": "file",
+                          "name": "HINDI-LITERATURE WS-1.pdf",
+                          "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/HINDI/LITERATURE/HINDI-LITERATURE WS-1.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "HINDI-LITERATURE WS-2.pdf",
+                          "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/HINDI/LITERATURE/HINDI-LITERATURE WS-2.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "MATHS",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "MATHS-WS1.pdf",
+                      "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/MATHS/MATHS-WS1.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHS-WS2.pdf",
+                      "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/MATHS/MATHS-WS2.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "SCIENCE-WS1.pdf",
+                      "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/SCIENCE/SCIENCE-WS1.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SCIENCE-WS2.pdf",
+                      "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/SCIENCE/SCIENCE-WS2.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SOCIAL-SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "SOCIAL-SCIENCE-WS1.pdf",
+                      "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/SOCIAL-SCIENCE/SOCIAL-SCIENCE-WS1.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SOCIAL-SCIENCE-WS2.pdf",
+                      "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/SOCIAL-SCIENCE/SOCIAL-SCIENCE-WS2.pdf"
+                    }
+                  ]
+                },
+                {
                   "type": "file",
-                  "name": "7 Bengali.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/BENGALI/7 Bengali.pdf"
+                  "name": "SOURCE-WS.pdf",
+                  "path": "ASSIGNMENTS/SUMMER-VACATION/ASSIGNMENTS/SOURCE-WS.pdf"
                 }
               ]
             },
             {
               "type": "folder",
-              "name": "ENGLISH",
+              "name": "PROJECTS",
               "children": [
                 {
                   "type": "file",
-                  "name": "2-1-1 English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-1-1 English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-1-2 English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-1-2 English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-1-3 English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-1-3 English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-2-1 (English L & L).pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-2-1 (English L & L).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-2-2 (English L & L).pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-2-2 (English L & L).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-2-3 (English L & L).pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-2-3 (English L & L).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-3-1 English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-3-1 English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-3-2 English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-3-2 English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-3-3 English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-3-3 English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-4-1 (English L & L).pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-4-1 (English L & L).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-4-2 (English L & L).pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-4-2 (English L & L).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-4-3 (English L & L).pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/ENGLISH/2-4-3 (English L & L).pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "HINDI-A",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "3-1-1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-1-1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-1-2  Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-1-2  Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-1-3  Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-1-3  Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-2-1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-2-1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-2-2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-2-2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-2-3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-2-3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-3-1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-3-1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-3-2 Hindi a.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-3-2 Hindi a.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-3-3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-3-3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-4-1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-4-1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-4-2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-4-2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3-4-3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-A/3-4-3 Hindi A.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "HINDI-B",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "4-1-1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-1-1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-1-2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-1-2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-1-3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-1-3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-2-1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-2-1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-2-2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-2-2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-2-3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-2-3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-3-1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-3-1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-3-2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-3-2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-3-3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-3-3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-4-1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-4-1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-4-2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-4-2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4-4-3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/HINDI-B/4-4-3 Hindi B.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "INFORMATION-TECHNOLOGY",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "89 Information Technology.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/INFORMATION-TECHNOLOGY/89 Information Technology.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "MATHS",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "30-1-1 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-1-1 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-1-2 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-1-2 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-1-3 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-1-3 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-2-1 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-2-1 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-2-2 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-2-2 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-2-3 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-2-3 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-3-1 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-3-1 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-3-2 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-3-2 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-3-3 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-3-3 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-4-1 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-4-1 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-4-2 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-4-2 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-4-3 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-4-3 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-B-5 Maths Std. for VI candidates.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/30-B-5 Maths Std. for VI candidates.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "40-3-1 Maths Std Punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/40-3-1 Maths Std Punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "40-B-5 Maths Standard Punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/40-B-5 Maths Standard Punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "46-2-1 Mathematics Std. Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/46-2-1 Mathematics Std. Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "46-2-2 Mathematics Std. Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/46-2-2 Mathematics Std. Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "46-2-3 Mathematics Std. Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/MATHS/46-2-3 Mathematics Std. Urdu version.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "SCIENCE",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "31-1-1 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-1-1 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-1-2 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-1-2 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-1-3 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-1-3 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-2-1 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-2-1 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-2-2 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-2-2 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-2-3 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-2-3 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-3-1 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-3-1 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-3-2 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-3-2 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-3-3 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-3-3 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-4-1 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-4-1 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-4-2 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-4-2 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-4-3 Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-4-3 Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31-B-5 Science for VI candidates.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/31-B-5 Science for VI candidates.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "41-3-1 Science Punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/41-3-1 Science Punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "41-3-2 Science Punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/41-3-2 Science Punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "41-3-3 Science Punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/41-3-3 Science Punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "41-B-5 Science for VI candidates punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/41-B-5 Science for VI candidates punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "47-2-2 Science Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/47-2-2 Science Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "47-2-2 Science Urdu version.pdf 1.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/47-2-2 Science Urdu version.pdf 1.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "47-2-3 Science Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SCIENCE/47-2-3 Science Urdu version.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "SOCIAL-SCIENCE",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "32-1-1 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-1-1 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-1-2 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-1-2 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-1-3 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-1-3 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-2-1 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-2-1 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-2-2 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-2-2 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-2-3 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-2-3 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-3-1 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-3-1 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-3-2 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-3-2 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-3-3 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-3-3 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-4-1 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-4-1 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-4-2 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-4-2 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32-4-3 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/32-4-3 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "42-3-1 Social Science punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/42-3-1 Social Science punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "42-3-2 Social Science punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/42-3-2 Social Science punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "42-3-3 Social Science punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/42-3-3 Social Science punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "48-2-1 Social Science urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/48-2-1 Social Science urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "48-2-2 Social Science urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/48-2-2 Social Science urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "48-2-3 Social Science Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2022/SOCIAL-SCIENCE/48-2-3 Social Science Urdu version.pdf"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-2023",
-          "children": [
-            {
-              "type": "folder",
-              "name": "BENGALI",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "07_BENGALI.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/BENGALI/07_BENGALI.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "English_Language_Literature",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "2-1-1 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-1-1 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-1-2 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-1-2 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-1-3 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-1-3 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-2-1 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-2-1 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-2-2 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-2-2 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-2-3 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-2-3 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-4-1 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-4-1 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-4-2 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-4-2 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-4-3 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-4-3 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-5-1 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-5-1 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-5-2 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-5-2 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-5-3 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-5-3 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-6-1 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-6-1 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-6-2 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-6-2 ENGLISH L_L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2-6-3 ENGLISH L_L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/English_Language_Literature/2-6-3 ENGLISH L_L.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "HINDI-A",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "3_1_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_1_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_1_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_1_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_1_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_1_3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_2_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_2_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_2_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_2_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_2_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_2_3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_4_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_4_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_4_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_4_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_4_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_4_3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_5_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_5_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_5_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_5_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_5_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_5_3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_6_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_6_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_6_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_6_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_6_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-A/3_6_3 Hindi A.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "HINDI-B",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "4_1_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_1_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_1_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_1_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_1_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_1_3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_2_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_2_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_2_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_2_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_2_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_2_3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_4_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_4_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_4_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_4_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_4_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_4_3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_5_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_5_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_5_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_5_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_5_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_5_3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_6_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_6_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_6_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_6_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_6_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/HINDI-B/4_6_3 Hindi B.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "INFORMATION-TECHNOLOGY",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "89_Information_Technology.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/INFORMATION-TECHNOLOGY/89_Information_Technology.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "MATHS",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "30_1_1_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_1_1_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_1_2_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_1_2_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_1_3_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_1_3_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_2_1_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_2_1_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_2_2_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_2_2_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_2_3_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_2_3_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_4_1 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_4_1 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_4_2 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_4_2 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_4_3 Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_4_3 Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_5_1_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_5_1_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_5_2_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_5_2_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_5_3_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_5_3_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_6_1_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_6_1_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_6_2_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_6_2_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_6_3_Maths Standard.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_6_3_Maths Standard.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_B_5_Maths Std. for VI candidates.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_B_5_Maths Std. for VI candidates.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30_B_Maths Std. for VI candidates Punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/30_B_Maths Std. for VI candidates Punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "40_2_1_Maths Standard Punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/40_2_1_Maths Standard Punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "40_2_2_Maths Standard Punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/40_2_2_Maths Standard Punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "40_2_3_Maths Standard Punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/40_2_3_Maths Standard Punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "46_4_1 Maths Std. Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/46_4_1 Maths Std. Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "46_4_2 Maths Std. Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/46_4_2 Maths Std. Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "46_4_3 Maths Std. Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/46_4_3 Maths Std. Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "46_B_Maths Std. for VI candidates Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/MATHS/46_B_Maths Std. for VI candidates Urdu version.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "SCIENCE",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "31_1_1_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_1_1_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_1_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_1_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_1_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_1_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_2_1_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_2_1_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_2_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_2_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_2_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_2_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_4_1_ Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_4_1_ Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_4_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_4_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_4_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_4_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_5_1_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_5_1_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_5_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_5_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_5_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_5_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_6_1_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_6_1_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_6_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_6_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_6_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_6_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_B_5_Science for VI.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/31_B_5_Science for VI.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "41_2_1_Science punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/41_2_1_Science punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "41_2_2_Science punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/41_2_2_Science punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "41_2_3_Science punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/41_2_3_Science punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "41_B_5_Science for VI punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/41_B_5_Science for VI punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "47-4-1 Science Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/47-4-1 Science Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "47-4-2 Science Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/47-4-2 Science Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "47-4-3 Science Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/47-4-3 Science Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "47_B_5_Science for VI Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SCIENCE/47_B_5_Science for VI Urdu version.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "SOCIAL-SCIENCE",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "32_1_1 SOCIAL SCIENCE.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_1_1 SOCIAL SCIENCE.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_1_2 SOCIAL SCIENCE.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_1_2 SOCIAL SCIENCE.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_1_3 SOCIAL SCIENCE.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_1_3 SOCIAL SCIENCE.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_2_1 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_2_1 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_2_2 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_2_2 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_2_3 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_2_3 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_4_1 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_4_1 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_4_2 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_4_2 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_4_3 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_4_3 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_5_1 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_5_1 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_5_2 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_5_2 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_5_3 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_5_3 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_6_1 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_6_1 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_6_2 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_6_2 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_6_3 Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/32_6_3 Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "42_2_1 Social Science punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/42_2_1 Social Science punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "42_2_2 Social Science punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/42_2_2 Social Science punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "42_2_3 Social Science punjabi version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/42_2_3 Social Science punjabi version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "48-4-1 Social Science Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/48-4-1 Social Science Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "48-4-2 Social Science Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/48-4-2 Social Science Urdu version.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "48-4-3 Social Science Urdu version.pdf",
-                  "path": "CBSE-PAQs/CBSE-2023/SOCIAL-SCIENCE/48-4-3 Social Science Urdu version.pdf"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-2024",
-          "children": [
-            {
-              "type": "folder",
-              "name": "BENGALI",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "7_Bengali.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/BENGALI/7_Bengali.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "ENGLISH",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "2_1_1_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_1_1_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_1_2_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_1_2_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_1_3_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_1_3_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_2_1_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_2_1_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_2_2_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_2_2_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_2_3_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_2_3_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_3_1_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_3_1_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_3_2_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_3_2_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_3_3_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_3_3_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_4_1_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_4_1_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_4_2_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_4_2_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_4_3_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_4_3_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_5_1_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_5_1_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_5_2_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_5_2_English L & L.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "2_5_3_English L & L.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/ENGLISH/2_5_3_English L & L.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "HINDI-A",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "3_1_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_1_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_1_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_1_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_1_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_1_3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_2_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_2_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_2_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_2_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_2_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_2_3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_3_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_3_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_3_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_3_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_3_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_3_3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_4_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_4_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_4_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_4_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_4_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_4_3 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_5_1 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_5_1 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_5_2 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_5_2 Hindi A.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "3_5_3 Hindi A.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-A/3_5_3 Hindi A.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "HINDI-B",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "4_1_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_1_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_1_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_1_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_1_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_1_3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_2_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_2_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_2_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_2_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_2_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_2_3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_3_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_3_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_3_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_3_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_3_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_3_3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_4_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_4_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_4_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_4_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_4_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_4_3 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_5_1 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_5_1 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_5_2 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_5_2 Hindi B.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "4_5_3 Hindi B.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/HINDI-B/4_5_3 Hindi B.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "INFORMATION-TECHNOLOGY",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "89_Information_Technology.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/INFORMATION-TECHNOLOGY/89_Information_Technology.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "MATHS",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "30(B) Mathematics.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30(B) Mathematics.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-1-1(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-1-1(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-1-2(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-1-2(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-1-3(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-1-3(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-2-1(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-2-1(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-2-2(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-2-2(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-2-3(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-2-3(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-3-1(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-3-1(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-3-2(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-3-2(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-3-3(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-3-3(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-4-1(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-4-1(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-4-2(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-4-2(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-4-3(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-4-3(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-5-1(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-5-1(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-5-2(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-5-2(Mathematics Standard).pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "30-5-3(Mathematics Standard).pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/MATHS/30-5-3(Mathematics Standard).pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "SCIENCE",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "31_1_1_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_1_1_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_1_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_1_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_1_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_1_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_2_1_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_2_1_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_2_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_2_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_2_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_2_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_3_1_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_3_1_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_3_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_3_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_3_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_3_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_4_1_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_4_1_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_4_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_4_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_4_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_4_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_5_1_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_5_1_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_5_2_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_5_2_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_5_3_Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_5_3_Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "31_B_Science_VI.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SCIENCE/31_B_Science_VI.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "SOCIAL-SCIENCE",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "32_1_1_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_1_1_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_1_2_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_1_2_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_1_3_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_1_3_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_2_1_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_2_1_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_2_2_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_2_2_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_2_3_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_2_3_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_3_1_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_3_1_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_3_2_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_3_2_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_3_3_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_3_3_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_4_1_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_4_1_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_4_2_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_4_2_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_4_3_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_4_3_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_5_1_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_5_1_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_5_2_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_5_2_Social Science.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "32_5_3_Social Science.pdf",
-                  "path": "CBSE-PAQs/CBSE-2024/SOCIAL-SCIENCE/32_5_3_Social Science.pdf"
+                  "name": "SOURCE-PR.pdf",
+                  "path": "ASSIGNMENTS/SUMMER-VACATION/PROJECTS/SOURCE-PR.pdf"
                 }
               ]
             }
@@ -2254,545 +2385,551 @@
     },
     {
       "type": "folder",
-      "name": "CBSE-SQPs",
+      "name": "CBSE",
       "children": [
         {
           "type": "folder",
-          "name": "CBSE-15",
-          "children": [
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-15/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-15/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-15/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-15/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-15/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-16",
-          "children": [
-            {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-16/BENGALI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-16/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-16/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-16/INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-16/INFORMATION_TECHNOLOGY-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-16/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-16/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-16/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-17",
-          "children": [
-            {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-17/BENGALI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-17/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-17/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-17/INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-17/INFORMATION_TECHNOLOGY-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-17/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-17/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-17/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-18",
-          "children": [
-            {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-18/BENGALI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-18/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-18/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "INFORMATION_AND_COMMUNICATIO_TECHNOLOGY-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-18/INFORMATION_AND_COMMUNICATIO_TECHNOLOGY-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-18/INFORMATION_TECHNOLOGY-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-18/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-18/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-18/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-19",
-          "children": [
-            {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-19/BENGALI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-19/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-19/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-19/INFORMATION_TECHNOLOGY-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-19/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-19/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-19/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-20",
-          "children": [
-            {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-20/BENGALI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-20/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-20/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-20/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-20/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-20/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-21",
-          "children": [
-            {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-21/BENGALI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-21/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-21/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-21/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-21/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-21/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-22",
+          "name": "CBSE-SQPs",
           "children": [
             {
               "type": "folder",
-              "name": "TERM-1",
+              "name": "CBSE-15",
               "children": [
                 {
                   "type": "file",
-                  "name": "BENGALI-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-1/BENGALI-SQP.pdf"
-                },
-                {
-                  "type": "file",
                   "name": "ENGLISH-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-1/ENGLISH-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-15/ENGLISH-SQP.pdf"
                 },
                 {
                   "type": "file",
                   "name": "HINDI-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-1/HINDI-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-15/HINDI-SQP.pdf"
                 },
                 {
                   "type": "file",
                   "name": "MATHEMATICS-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-1/MATHEMATICS-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-15/MATHEMATICS-SQP.pdf"
                 },
                 {
                   "type": "file",
                   "name": "SCIENCE-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-1/SCIENCE-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-15/SCIENCE-SQP.pdf"
                 },
                 {
                   "type": "file",
                   "name": "SOCIAL_SCIENCE-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-1/SOCIAL_SCIENCE-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-15/SOCIAL_SCIENCE-SQP.pdf"
                 }
               ]
             },
             {
               "type": "folder",
-              "name": "TERM-2",
+              "name": "CBSE-16",
               "children": [
                 {
                   "type": "file",
                   "name": "BENGALI-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-2/BENGALI-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-16/BENGALI-SQP.pdf"
                 },
                 {
                   "type": "file",
                   "name": "ENGLISH-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-2/ENGLISH-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-16/ENGLISH-SQP.pdf"
                 },
                 {
                   "type": "file",
                   "name": "HINDI-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-2/HINDI-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-16/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-16/INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-16/INFORMATION_TECHNOLOGY-SQP.pdf"
                 },
                 {
                   "type": "file",
                   "name": "MATHEMATICS-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-2/MATHEMATICS-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-16/MATHEMATICS-SQP.pdf"
                 },
                 {
                   "type": "file",
                   "name": "SCIENCE-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-2/SCIENCE-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-16/SCIENCE-SQP.pdf"
                 },
                 {
                   "type": "file",
                   "name": "SOCIAL_SCIENCE-SQP.pdf",
-                  "path": "CBSE-SQPs/CBSE-22/TERM-2/SOCIAL_SCIENCE-SQP.pdf"
+                  "path": "CBSE/CBSE-SQPs/CBSE-16/SOCIAL_SCIENCE-SQP.pdf"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-23",
-          "children": [
-            {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-23/BENGALI-SQP.pdf"
             },
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-23/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-23/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-23/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-23/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-23/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-24",
-          "children": [
-            {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-24/BENGALI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-24/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-24/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-24/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-24/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-24/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-25",
-          "children": [
-            {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-25/BENGALI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-25/ENGLISH-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-25/HINDI-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-25/MATHEMATICS-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-25/SCIENCE-SQP.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-25/SOCIAL_SCIENCE-SQP.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "CBSE-26",
-          "children": [
             {
               "type": "folder",
-              "name": "MARKING-SCHEME",
+              "name": "CBSE-17",
               "children": [
                 {
                   "type": "file",
-                  "name": "BENGALI-MS.pdf",
-                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/BENGALI-MS.pdf"
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-17/BENGALI-SQP.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-MS.pdf",
-                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/ENGLISH-MS.pdf"
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-17/ENGLISH-SQP.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "HINDI-MS.pdf",
-                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/HINDI-MS.pdf"
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-17/HINDI-SQP.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "MATHEMATICS-MS.pdf",
-                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/MATHEMATICS-MS.pdf"
+                  "name": "INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-17/INFORMATION_AND_COMMUNICATION_TECHNOLOGY-SQP.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SCIENCE-MS.pdf",
-                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/SCIENCE-MS.pdf"
+                  "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-17/INFORMATION_TECHNOLOGY-SQP.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SOCIAL_SCIENCE-MS.pdf",
-                  "path": "CBSE-SQPs/CBSE-26/MARKING-SCHEME/SOCIAL_SCIENCE-MS.pdf"
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-17/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-17/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-17/SOCIAL_SCIENCE-SQP.pdf"
                 }
               ]
             },
             {
-              "type": "file",
-              "name": "BENGALI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-26/BENGALI-SQP.pdf"
+              "type": "folder",
+              "name": "CBSE-18",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-18/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-18/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-18/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "INFORMATION_AND_COMMUNICATIO_TECHNOLOGY-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-18/INFORMATION_AND_COMMUNICATIO_TECHNOLOGY-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-18/INFORMATION_TECHNOLOGY-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-18/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-18/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-18/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
             },
             {
-              "type": "file",
-              "name": "ENGLISH-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-26/ENGLISH-SQP.pdf"
+              "type": "folder",
+              "name": "CBSE-19",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-19/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-19/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-19/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-19/INFORMATION_TECHNOLOGY-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-19/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-19/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-19/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
             },
             {
-              "type": "file",
-              "name": "HINDI-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-26/HINDI-SQP.pdf"
+              "type": "folder",
+              "name": "CBSE-20",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-20/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-20/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-20/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-20/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-20/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-20/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
             },
             {
-              "type": "file",
-              "name": "MATHEMATICS-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-26/MATHEMATICS-SQP.pdf"
+              "type": "folder",
+              "name": "CBSE-21",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-21/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-21/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-21/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-21/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-21/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-21/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
             },
             {
-              "type": "file",
-              "name": "SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-26/SCIENCE-SQP.pdf"
+              "type": "folder",
+              "name": "CBSE-22",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "TERM-1",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "BENGALI-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-1/BENGALI-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "ENGLISH-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-1/ENGLISH-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "HINDI-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-1/HINDI-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHEMATICS-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-1/MATHEMATICS-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SCIENCE-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-1/SCIENCE-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SOCIAL_SCIENCE-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-1/SOCIAL_SCIENCE-SQP.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "TERM-2",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "BENGALI-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-2/BENGALI-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "ENGLISH-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-2/ENGLISH-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "HINDI-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-2/HINDI-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHEMATICS-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-2/MATHEMATICS-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SCIENCE-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-2/SCIENCE-SQP.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SOCIAL_SCIENCE-SQP.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-22/TERM-2/SOCIAL_SCIENCE-SQP.pdf"
+                    }
+                  ]
+                }
+              ]
             },
             {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-SQP.pdf",
-              "path": "CBSE-SQPs/CBSE-26/SOCIAL_SCIENCE-SQP.pdf"
+              "type": "folder",
+              "name": "CBSE-23",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-23/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-23/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-23/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-23/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-23/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-23/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "CBSE-24",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-24/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-24/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-24/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-24/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-24/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-24/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "CBSE-25",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-25/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-25/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-25/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-25/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-25/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-25/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "CBSE-26",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "MARKING-SCHEME",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "BENGALI-MS.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-26/MARKING-SCHEME/BENGALI-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "ENGLISH-MS.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-26/MARKING-SCHEME/ENGLISH-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "HINDI-MS.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-26/MARKING-SCHEME/HINDI-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHEMATICS-MS.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-26/MARKING-SCHEME/MATHEMATICS-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SCIENCE-MS.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-26/MARKING-SCHEME/SCIENCE-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SOCIAL_SCIENCE-MS.pdf",
+                      "path": "CBSE/CBSE-SQPs/CBSE-26/MARKING-SCHEME/SOCIAL_SCIENCE-MS.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-26/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-26/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-26/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-26/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-26/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE/CBSE-SQPs/CBSE-26/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
             }
           ]
         }
@@ -3422,131 +3559,6 @@
                   "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE05-OUTCOMES_OF_DEMOCRACY.pdf"
                 }
               ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "folder",
-      "name": "SUMMER-VACATION",
-      "children": [
-        {
-          "type": "folder",
-          "name": "ASSIGNMENTS",
-          "children": [
-            {
-              "type": "folder",
-              "name": "BENGALI",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "BENGALI-WS.pdf",
-                  "path": "SUMMER-VACATION/ASSIGNMENTS/BENGALI/BENGALI-WS.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "ENGLISH",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "ENGLISH-WS1.pdf",
-                  "path": "SUMMER-VACATION/ASSIGNMENTS/ENGLISH/ENGLISH-WS1.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "ENGLISH-WS2.pdf",
-                  "path": "SUMMER-VACATION/ASSIGNMENTS/ENGLISH/ENGLISH-WS2.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "HINDI",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "LITERATURE",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "HINDI-LITERATURE WS-1.pdf",
-                      "path": "SUMMER-VACATION/ASSIGNMENTS/HINDI/LITERATURE/HINDI-LITERATURE WS-1.pdf"
-                    },
-                    {
-                      "type": "file",
-                      "name": "HINDI-LITERATURE WS-2.pdf",
-                      "path": "SUMMER-VACATION/ASSIGNMENTS/HINDI/LITERATURE/HINDI-LITERATURE WS-2.pdf"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "MATHS",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "MATHS-WS1.pdf",
-                  "path": "SUMMER-VACATION/ASSIGNMENTS/MATHS/MATHS-WS1.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "MATHS-WS2.pdf",
-                  "path": "SUMMER-VACATION/ASSIGNMENTS/MATHS/MATHS-WS2.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "SCIENCE",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "SCIENCE-WS1.pdf",
-                  "path": "SUMMER-VACATION/ASSIGNMENTS/SCIENCE/SCIENCE-WS1.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "SCIENCE-WS2.pdf",
-                  "path": "SUMMER-VACATION/ASSIGNMENTS/SCIENCE/SCIENCE-WS2.pdf"
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "SOCIAL-SCIENCE",
-              "children": [
-                {
-                  "type": "file",
-                  "name": "SOCIAL-SCIENCE-WS1.pdf",
-                  "path": "SUMMER-VACATION/ASSIGNMENTS/SOCIAL-SCIENCE/SOCIAL-SCIENCE-WS1.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "SOCIAL-SCIENCE-WS2.pdf",
-                  "path": "SUMMER-VACATION/ASSIGNMENTS/SOCIAL-SCIENCE/SOCIAL-SCIENCE-WS2.pdf"
-                }
-              ]
-            },
-            {
-              "type": "file",
-              "name": "SOURCE-WS.pdf",
-              "path": "SUMMER-VACATION/ASSIGNMENTS/SOURCE-WS.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "PROJECTS",
-          "children": [
-            {
-              "type": "file",
-              "name": "SOURCE-PR.pdf",
-              "path": "SUMMER-VACATION/PROJECTS/SOURCE-PR.pdf"
             }
           ]
         }
