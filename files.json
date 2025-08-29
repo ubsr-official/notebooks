@@ -2258,6 +2258,27 @@
       "children": [
         {
           "type": "folder",
+          "name": "CBSE-18",
+          "children": [
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-18/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-18/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-18/SCIENCE-SQP.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "CBSE-19",
           "children": [
             {
