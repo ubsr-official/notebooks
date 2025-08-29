@@ -2389,6 +2389,17 @@
       "children": [
         {
           "type": "folder",
+          "name": "CBSE-QUESTION_BANK",
+          "children": [
+            {
+              "type": "file",
+              "name": "ENGLISH-QUESTION_BANK.pdf",
+              "path": "CBSE-SOURCES/CBSE-QUESTION_BANK/ENGLISH-QUESTION_BANK.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "CBSE-SQPs",
           "children": [
             {
