@@ -2254,6 +2254,347 @@
     },
     {
       "type": "folder",
+      "name": "CBSE-SQPs",
+      "children": [
+        {
+          "type": "folder",
+          "name": "CBSE-19",
+          "children": [
+            {
+              "type": "file",
+              "name": "BENGALI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-19/BENGALI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-19/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-19/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-19/INFORMATION_TECHNOLOGY-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-19/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-19/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-19/SOCIAL_SCIENCE-SQP.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "CBSE-20",
+          "children": [
+            {
+              "type": "file",
+              "name": "BENGALI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-20/BENGALI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-20/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-20/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-20/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-20/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-20/SOCIAL_SCIENCE-SQP.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "CBSE-21",
+          "children": [
+            {
+              "type": "file",
+              "name": "BENGALI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-21/BENGALI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-21/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-21/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-21/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-21/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-21/SOCIAL_SCIENCE-SQP.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "CBSE-22",
+          "children": [
+            {
+              "type": "folder",
+              "name": "TERM-1",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-1/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-1/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-1/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-1/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-1/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-1/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "TERM-2",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-2/BENGALI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-2/ENGLISH-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "HINDI-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-2/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-2/MATHEMATICS-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-2/SCIENCE-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-SQP.pdf",
+                  "path": "CBSE-SQPs/CBSE-22/TERM-2/SOCIAL_SCIENCE-SQP.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "CBSE-23",
+          "children": [
+            {
+              "type": "file",
+              "name": "BENGALI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-23/BENGALI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-23/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-23/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-23/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-23/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-23/SOCIAL_SCIENCE-SQP.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "CBSE-24",
+          "children": [
+            {
+              "type": "file",
+              "name": "BENGALI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-24/BENGALI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-24/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-24/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-24/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-24/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-24/SOCIAL_SCIENCE-SQP.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "CBSE-25",
+          "children": [
+            {
+              "type": "file",
+              "name": "BENGALI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-25/BENGALI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-25/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-25/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-25/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-25/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-25/SOCIAL_SCIENCE-SQP.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "CBSE-26",
+          "children": [
+            {
+              "type": "file",
+              "name": "BENGALI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-26/BENGALI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-26/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-26/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-26/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-26/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-26/SOCIAL_SCIENCE-SQP.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "folder",
       "name": "NCERT-EXAMPLER[OLD]",
       "children": [
         {
