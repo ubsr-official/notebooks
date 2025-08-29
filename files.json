@@ -4090,6 +4090,198 @@
                 },
                 {
                   "type": "folder",
+                  "name": "ENGLISH",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "2-1-1_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-1-1_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-1-2_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-1-2_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-1-3_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-1-3_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-2-1_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-2-1_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-2-2_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-2-2_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-2-3_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-2-3_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-3-1_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-3-1_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-3-2_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-3-2_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-3-3_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-3-3_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-4-1_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-4-1_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-4-2_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-4-2_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-4-3_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-4-3_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-5-1_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-5-1_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-5-2_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-5-2_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-5-3_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-5-3_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-6-1_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-6-1_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-6-2_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-6-2_English Language and Literature.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "2-6-3_English Language and Literature.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/ENGLISH/2-6-3_English Language and Literature.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "HINDI",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "3-1-1_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-1-1_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-1-2_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-1-2_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-1-3_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-1-3_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-2-1_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-2-1_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-2-2_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-2-2_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-2-3_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-2-3_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-3-1_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-3-1_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-3-2_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-3-2_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-3-3_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-3-3_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-4-1_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-4-1_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-4-2_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-4-2_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-4-3_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-4-3_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-5-1_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-5-1_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-5-2_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-5-2_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-5-3_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-5-3_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-6-1_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-6-1_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-6-2_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-6-2_Hindi Course A.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "3-6-3_Hindi Course A.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/HINDI/3-6-3_Hindi Course A.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
                   "name": "INFORMATION-TECHNOLOGY",
                   "children": [
                     {
@@ -4197,6 +4389,203 @@
                       "type": "file",
                       "name": "30-6-3_Mathematics Standard.pdf",
                       "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/MATHS/30-6-3_Mathematics Standard.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "31 (B)_Science for Visually Impaired Candidates.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31 (B)_Science for Visually Impaired Candidates.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-1-1_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-1-1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-1-2_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-1-2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-1-3_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-1-3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-2-1_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-2-1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-2-2_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-2-2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-2-3_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-2-3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-3-1_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-3-1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-3-2_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-3-2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-3-3_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-3-3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-4-1_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-4-1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-4-2_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-4-2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-4-3_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-4-3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-5-1_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-5-1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-5-2_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-5-2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-5-3_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-5-3_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-6-1_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-6-1_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-6-2_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-6-2_Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "31-6-3_Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SCIENCE/31-6-3_Science.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SOCIAL_SCIENCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "32-1-1_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-1-1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-1-2_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-1-2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-1-3_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-1-3_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-2-1_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-2-1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-2-2_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-2-2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-2-3_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-2-3_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-3-1_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-3-1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-3-2_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-3-2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-3-3_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-3-3_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-4-1_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-4-1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-4-2_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-4-2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-4-3_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-4-3_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-5-1_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-5-1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-5-2_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-5-2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-5-3_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-5-3_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-6-1_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-6-1_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-6-2_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-6-2_Social Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "32-6-3_Social Science.pdf",
+                      "path": "CBSE-SOURCES/CBSE-PAQs/CBSE-2025/SOCIAL_SCIENCE/32-6-3_Social Science.pdf"
                     }
                   ]
                 }
