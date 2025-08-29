@@ -2258,6 +2258,37 @@
       "children": [
         {
           "type": "folder",
+          "name": "CBSE-15",
+          "children": [
+            {
+              "type": "file",
+              "name": "ENGLISH-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-15/ENGLISH-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-15/HINDI-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-15/MATHEMATICS-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-15/SCIENCE-SQP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-SQP.pdf",
+              "path": "CBSE-SQPs/CBSE-15/SOCIAL_SCIENCE-SQP.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "CBSE-16",
           "children": [
             {
@@ -2793,13 +2824,53 @@
             },
             {
               "type": "file",
-              "name": "MATHS0-ANSWERS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS0-ANSWERS.pdf"
+              "name": "MATHS00-ANSWERS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS00-ANSWERS.pdf"
             },
             {
               "type": "file",
-              "name": "MATHS1-REAL_NUMBERS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS1-REAL_NUMBERS.pdf"
+              "name": "MATHS01-REAL_NUMBERS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS01-REAL_NUMBERS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS02-POLYNOMIALS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS02-POLYNOMIALS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS03-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS03-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS04-QUADRATIC_EQUATIONS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS04-QUADRATIC_EQUATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS05-ARTHIMETIC_PROGRESSIONS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS05-ARTHIMETIC_PROGRESSIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS06-TRIANGLES.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS06-TRIANGLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS07-COORDINATE_GEOMETRY.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS07-COORDINATE_GEOMETRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS08-INTRODUCTION_TO_TRIGONOMETRY_AND_ITS_APPLICATIONS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS08-INTRODUCTION_TO_TRIGONOMETRY_AND_ITS_APPLICATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS09-CIRCLES.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS09-CIRCLES.pdf"
             },
             {
               "type": "file",
@@ -2820,46 +2891,6 @@
               "type": "file",
               "name": "MATHS13-STATISTICS_AND_PROBABILITY.pdf",
               "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS13-STATISTICS_AND_PROBABILITY.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS2-POLYNOMIALS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS2-POLYNOMIALS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS3-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS3-PAIR_OF_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS4-QUADRATIC_EQUATIONS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS4-QUADRATIC_EQUATIONS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS5-ARTHIMETIC_PROGRESSIONS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS5-ARTHIMETIC_PROGRESSIONS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS6-TRIANGLES.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS6-TRIANGLES.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS7-COORDINATE_GEOMETRY.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS7-COORDINATE_GEOMETRY.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS8-INTRODUCTION_TO_TRIGONOMETRY_AND_ITS_APPLICATIONS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS8-INTRODUCTION_TO_TRIGONOMETRY_AND_ITS_APPLICATIONS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS9-CIRCLES.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/MATHS/MATHS9-CIRCLES.pdf"
             }
           ]
         },
@@ -2885,13 +2916,53 @@
             },
             {
               "type": "file",
-              "name": "SCIENCE0-ANSWERS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE0-ANSWERS.pdf"
+              "name": "SCIENCE00-ANSWERS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE00-ANSWERS.pdf"
             },
             {
               "type": "file",
-              "name": "SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf"
+              "name": "SCIENCE01-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE01-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE02-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE02-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE03-CHEMISTRY-METALS_AND_NON_METALS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE03-CHEMISTRY-METALS_AND_NON_METALS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE04-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE04-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE05-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE05-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE06-BIOLOGY-LIFE_PROCESSES.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE06-BIOLOGY-LIFE_PROCESSES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE07-BIOLOGY-CONTROL_AND_COORDINATION.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE07-BIOLOGY-CONTROL_AND_COORDINATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE08-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE08-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE09-BIOLOGY-HEREDITY_AND_EVOLUTION.pdf",
+              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE09-BIOLOGY-HEREDITY_AND_EVOLUTION.pdf"
             },
             {
               "type": "file",
@@ -2927,46 +2998,6 @@
               "type": "file",
               "name": "SCIENCE16-CHEMISTRY-MANAGEMENT_OF_NATURAL_RESOURCES.pdf",
               "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE16-CHEMISTRY-MANAGEMENT_OF_NATURAL_RESOURCES.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE3-CHEMISTRY-METALS_AND_NON_METALS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE3-CHEMISTRY-METALS_AND_NON_METALS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE4-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE4-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE5-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE5-CHEMISTRY-PERIODIC_CLASSIFICATION_OF_ELEMENTS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE6-BIOLOGY-LIFE_PROCESSES.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE6-BIOLOGY-LIFE_PROCESSES.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE7-BIOLOGY-CONTROL_AND_COORDINATION.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE7-BIOLOGY-CONTROL_AND_COORDINATION.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE8-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE8-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf"
-            },
-            {
-              "type": "file",
-              "name": "SCIENCE9-BIOLOGY-HEREDITY_AND_EVOLUTION.pdf",
-              "path": "NCERT-EXAMPLER[OLD]/SCIENCE/SCIENCE9-BIOLOGY-HEREDITY_AND_EVOLUTION.pdf"
             }
           ]
         }
@@ -2986,53 +3017,53 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT-INDEX.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT-INDEX.pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT00-INDEX.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT00-INDEX.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT1-SECTION1-CH(1-3).pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT1-SECTION1-CH(1-3).pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT01-SECTION1-CH(1-3).pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT01-SECTION1-CH(1-3).pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT2-SECTION2-CH(4-5).pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT2-SECTION2-CH(4-5).pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT02-SECTION2-CH(4-5).pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT02-SECTION2-CH(4-5).pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT3-SECTION3-CH(6-8).pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT3-SECTION3-CH(6-8).pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT03-SECTION3-CH(6-8).pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT03-SECTION3-CH(6-8).pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT4-SECTION4-CH(9-10).pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT4-SECTION4-CH(9-10).pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT04-SECTION4-CH(9-10).pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT04-SECTION4-CH(9-10).pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT5-SECTION5-CH(11-12).pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT5-SECTION5-CH(11-12).pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT05-SECTION5-CH(11-12).pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT05-SECTION5-CH(11-12).pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT6-SECTION6-CH(13-14).pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT6-SECTION6-CH(13-14).pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT06-SECTION6-CH(13-14).pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT06-SECTION6-CH(13-14).pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT7-SECTION7-CH(15-16).pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT7-SECTION7-CH(15-16).pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT07-SECTION7-CH(15-16).pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT07-SECTION7-CH(15-16).pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT8-SECTION8-CH(17-18).pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT8-SECTION8-CH(17-18).pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT08-SECTION8-CH(17-18).pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT08-SECTION8-CH(17-18).pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FIRST_FLIGHT9-SECTION9-CH(19).pdf",
-                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT9-SECTION9-CH(19).pdf"
+                  "name": "ENGLISH-FIRST_FLIGHT09-SECTION9-CH(19).pdf",
+                  "path": "NCERT-PDF/ENGLISH/FIRST-FLIGHT/ENGLISH-FIRST_FLIGHT09-SECTION9-CH(19).pdf"
                 }
               ]
             },
@@ -3042,48 +3073,48 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET1-A_TRIUMPH_OF_SURGERY.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET1-A_TRIUMPH_OF_SURGERY.pdf"
+                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET01-A_TRIUMPH_OF_SURGERY.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET01-A_TRIUMPH_OF_SURGERY.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET2-THE_THEIF'S_STORY.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET2-THE_THEIF'S_STORY.pdf"
+                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET02-THE_THEIF'S_STORY.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET02-THE_THEIF'S_STORY.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET3-THE_MIDNIGHT_VISITOR.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET3-THE_MIDNIGHT_VISITOR.pdf"
+                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET03-THE_MIDNIGHT_VISITOR.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET03-THE_MIDNIGHT_VISITOR.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET4-A_QUESTION_OF_TRUST.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET4-A_QUESTION_OF_TRUST.pdf"
+                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET04-A_QUESTION_OF_TRUST.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET04-A_QUESTION_OF_TRUST.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET5-FOOTPRINTS_WITHOUT_FEET.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET5-FOOTPRINTS_WITHOUT_FEET.pdf"
+                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET05-FOOTPRINTS_WITHOUT_FEET.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET05-FOOTPRINTS_WITHOUT_FEET.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET6-THE_MAKING_OF_A_SCIENTIST.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET6-THE_MAKING_OF_A_SCIENTIST.pdf"
+                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET06-THE_MAKING_OF_A_SCIENTIST.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET06-THE_MAKING_OF_A_SCIENTIST.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET7-THE_NECKLACE.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET7-THE_NECKLACE.pdf"
+                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET07-THE_NECKLACE.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET07-THE_NECKLACE.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET8-BHOLI.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET8-BHOLI.pdf"
+                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET08-BHOLI.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET08-BHOLI.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET9-THE_BOOK_THAT_SAVED_THE_EARTH.pdf",
-                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET9-THE_BOOK_THAT_SAVED_THE_EARTH.pdf"
+                  "name": "ENGLISH-FOOTPRINTS_WITHOUT_FEET09-THE_BOOK_THAT_SAVED_THE_EARTH.pdf",
+                  "path": "NCERT-PDF/ENGLISH/FOOTPRINTS-WITHOUT-FEET/ENGLISH-FOOTPRINTS_WITHOUT_FEET09-THE_BOOK_THAT_SAVED_THE_EARTH.pdf"
                 }
               ]
             }
@@ -3095,8 +3126,48 @@
           "children": [
             {
               "type": "file",
-              "name": "MATHS1-REAL_NUMBERS.pdf",
-              "path": "NCERT-PDF/MATHS/MATHS1-REAL_NUMBERS.pdf"
+              "name": "MATHS01-REAL_NUMBERS.pdf",
+              "path": "NCERT-PDF/MATHS/MATHS01-REAL_NUMBERS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS02-POLYNOMIALS.pdf",
+              "path": "NCERT-PDF/MATHS/MATHS02-POLYNOMIALS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS03-PAIR_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf",
+              "path": "NCERT-PDF/MATHS/MATHS03-PAIR_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS04-QUADRATIC_EQUATIONS.pdf",
+              "path": "NCERT-PDF/MATHS/MATHS04-QUADRATIC_EQUATIONS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS05-ARTHIMETIC_PROGRESSION.pdf",
+              "path": "NCERT-PDF/MATHS/MATHS05-ARTHIMETIC_PROGRESSION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS06-TRIANGLES.pdf",
+              "path": "NCERT-PDF/MATHS/MATHS06-TRIANGLES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS07-COORDINATE_GEOMETRY.pdf",
+              "path": "NCERT-PDF/MATHS/MATHS07-COORDINATE_GEOMETRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS08-INTRODUCTION_TO_TRIGONOMETRY.pdf",
+              "path": "NCERT-PDF/MATHS/MATHS08-INTRODUCTION_TO_TRIGONOMETRY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHS09-SOME_APPLICATIONS_OF_TRIGONOMETRY.pdf",
+              "path": "NCERT-PDF/MATHS/MATHS09-SOME_APPLICATIONS_OF_TRIGONOMETRY.pdf"
             },
             {
               "type": "file",
@@ -3122,46 +3193,6 @@
               "type": "file",
               "name": "MATHS14-PROBABILITY.pdf",
               "path": "NCERT-PDF/MATHS/MATHS14-PROBABILITY.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS2-POLYNOMIALS.pdf",
-              "path": "NCERT-PDF/MATHS/MATHS2-POLYNOMIALS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS3-PAIR_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf",
-              "path": "NCERT-PDF/MATHS/MATHS3-PAIR_LINEAR_EQUATIONS_IN_TWO_VARIABLES.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS4-QUADRATIC_EQUATIONS.pdf",
-              "path": "NCERT-PDF/MATHS/MATHS4-QUADRATIC_EQUATIONS.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS5-ARTHIMETIC_PROGRESSION.pdf",
-              "path": "NCERT-PDF/MATHS/MATHS5-ARTHIMETIC_PROGRESSION.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS6-TRIANGLES.pdf",
-              "path": "NCERT-PDF/MATHS/MATHS6-TRIANGLES.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS7-COORDINATE_GEOMETRY.pdf",
-              "path": "NCERT-PDF/MATHS/MATHS7-COORDINATE_GEOMETRY.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS8-INTRODUCTION_TO_TRIGONOMETRY.pdf",
-              "path": "NCERT-PDF/MATHS/MATHS8-INTRODUCTION_TO_TRIGONOMETRY.pdf"
-            },
-            {
-              "type": "file",
-              "name": "MATHS9-SOME_APPLICATIONS_OF_TRIGONOMETRY.pdf",
-              "path": "NCERT-PDF/MATHS/MATHS9-SOME_APPLICATIONS_OF_TRIGONOMETRY.pdf"
             }
           ]
         },
@@ -3175,28 +3206,28 @@
               "children": [
                 {
                   "type": "file",
+                  "name": "SCIENCE05-BIOLOGY-LIFE_PROCESSES.pdf",
+                  "path": "NCERT-PDF/SCIENCE/BIOLOGY/SCIENCE05-BIOLOGY-LIFE_PROCESSES.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE06-BIOLOGY-CONTROL_AND_COORDINATION.pdf",
+                  "path": "NCERT-PDF/SCIENCE/BIOLOGY/SCIENCE06-BIOLOGY-CONTROL_AND_COORDINATION.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE07-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf",
+                  "path": "NCERT-PDF/SCIENCE/BIOLOGY/SCIENCE07-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE08-BIOLOGY-HEREDITY.pdf",
+                  "path": "NCERT-PDF/SCIENCE/BIOLOGY/SCIENCE08-BIOLOGY-HEREDITY.pdf"
+                },
+                {
+                  "type": "file",
                   "name": "SCIENCE13-BIOLOGY-OUR_ENVIRONMENT.pdf",
                   "path": "NCERT-PDF/SCIENCE/BIOLOGY/SCIENCE13-BIOLOGY-OUR_ENVIRONMENT.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "SCIENCE5-BIOLOGY-LIFE_PROCESSES.pdf",
-                  "path": "NCERT-PDF/SCIENCE/BIOLOGY/SCIENCE5-BIOLOGY-LIFE_PROCESSES.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "SCIENCE6-BIOLOGY-CONTROL_AND_COORDINATION.pdf",
-                  "path": "NCERT-PDF/SCIENCE/BIOLOGY/SCIENCE6-BIOLOGY-CONTROL_AND_COORDINATION.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "SCIENCE7-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf",
-                  "path": "NCERT-PDF/SCIENCE/BIOLOGY/SCIENCE7-BIOLOGY-HOW_DO_ORGANISMS_REPRODUCE.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "SCIENCE8-BIOLOGY-HEREDITY.pdf",
-                  "path": "NCERT-PDF/SCIENCE/BIOLOGY/SCIENCE8-BIOLOGY-HEREDITY.pdf"
                 }
               ]
             },
@@ -3206,23 +3237,23 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf",
-                  "path": "NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE1-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf"
+                  "name": "SCIENCE01-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf",
+                  "path": "NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE01-CHEMISTRY-CHEMICAL_REACTIONS_AND_EQUATIONS.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf",
-                  "path": "NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE2-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf"
+                  "name": "SCIENCE02-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf",
+                  "path": "NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE02-CHEMISTRY-ACIDS_BASES_AND_SALTS.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SCIENCE3-CHEMISTRY-METALS_AND_NON-METALS.pdf",
-                  "path": "NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE3-CHEMISTRY-METALS_AND_NON-METALS.pdf"
+                  "name": "SCIENCE03-CHEMISTRY-METALS_AND_NON-METALS.pdf",
+                  "path": "NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE03-CHEMISTRY-METALS_AND_NON-METALS.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SCIENCE4-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf",
-                  "path": "NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE4-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf"
+                  "name": "SCIENCE04-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf",
+                  "path": "NCERT-PDF/SCIENCE/CHEMISTRY/SCIENCE04-CHEMISTRY-CARBON_AND_ITS_COMPOUNDS.pdf"
                 }
               ]
             },
@@ -3230,6 +3261,11 @@
               "type": "folder",
               "name": "PHYSICS",
               "children": [
+                {
+                  "type": "file",
+                  "name": "SCIENCE09-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION.pdf",
+                  "path": "NCERT-PDF/SCIENCE/PHYSICS/SCIENCE09-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION.pdf"
+                },
                 {
                   "type": "file",
                   "name": "SCIENCE10-PHYSICS-THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD.pdf",
@@ -3244,11 +3280,6 @@
                   "type": "file",
                   "name": "SCIENCE12-PHYSICS-MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT.pdf",
                   "path": "NCERT-PDF/SCIENCE/PHYSICS/SCIENCE12-PHYSICS-MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT.pdf"
-                },
-                {
-                  "type": "file",
-                  "name": "SCIENCE9-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION.pdf",
-                  "path": "NCERT-PDF/SCIENCE/PHYSICS/SCIENCE9-PHYSICS-LIGHT_REFLECTION_AND_REFRACTION.pdf"
                 }
               ]
             }
@@ -3264,28 +3295,28 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "SSC-ECONOMICS1-DEVELOPEMT.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS1-DEVELOPEMT.pdf"
+                  "name": "SSC-ECONOMICS01-DEVELOPEMT.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS01-DEVELOPEMT.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-ECONOMICS2-SECTORS_OF_INDIAN_ECONOMY.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS2-SECTORS_OF_INDIAN_ECONOMY.pdf"
+                  "name": "SSC-ECONOMICS02-SECTORS_OF_INDIAN_ECONOMY.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS02-SECTORS_OF_INDIAN_ECONOMY.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-ECONOMICS3-MONEY_AND_CREDIT.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS3-MONEY_AND_CREDIT.pdf"
+                  "name": "SSC-ECONOMICS03-MONEY_AND_CREDIT.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS03-MONEY_AND_CREDIT.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-ECONOMICS4-GLOBALISATION_AND_THE_INDIAN_ECONOMY.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS4-GLOBALISATION_AND_THE_INDIAN_ECONOMY.pdf"
+                  "name": "SSC-ECONOMICS04-GLOBALISATION_AND_THE_INDIAN_ECONOMY.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS04-GLOBALISATION_AND_THE_INDIAN_ECONOMY.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-ECONOMICS5-CONSUMER_RIGHTS.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS5-CONSUMER_RIGHTS.pdf"
+                  "name": "SSC-ECONOMICS05-CONSUMER_RIGHTS.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/ECONOMICS/SSC-ECONOMICS05-CONSUMER_RIGHTS.pdf"
                 }
               ]
             },
@@ -3295,38 +3326,38 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "SSC-GEOGRAPHY1-RESOURCES_AND_DEVELOPMENT.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY1-RESOURCES_AND_DEVELOPMENT.pdf"
+                  "name": "SSC-GEOGRAPHY01-RESOURCES_AND_DEVELOPMENT.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY01-RESOURCES_AND_DEVELOPMENT.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-GEOGRAPHY2-FOREST_AND_WILDLIFE_RESOURCES.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY2-FOREST_AND_WILDLIFE_RESOURCES.pdf"
+                  "name": "SSC-GEOGRAPHY02-FOREST_AND_WILDLIFE_RESOURCES.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY02-FOREST_AND_WILDLIFE_RESOURCES.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-GEOGRAPHY3-WATER_RESOURCES.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY3-WATER_RESOURCES.pdf"
+                  "name": "SSC-GEOGRAPHY03-WATER_RESOURCES.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY03-WATER_RESOURCES.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-GEOGRAPHY4-AGRICULTURE.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY4-AGRICULTURE.pdf"
+                  "name": "SSC-GEOGRAPHY04-AGRICULTURE.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY04-AGRICULTURE.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-GEOGRAPHY5-MINERALS_AND_ENERGY_RESOURCES.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY5-MINERALS_AND_ENERGY_RESOURCES.pdf"
+                  "name": "SSC-GEOGRAPHY05-MINERALS_AND_ENERGY_RESOURCES.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY05-MINERALS_AND_ENERGY_RESOURCES.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-GEOGRAPHY6-MANUFACTURING_INDUSTRIES.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY6-MANUFACTURING_INDUSTRIES.pdf"
+                  "name": "SSC-GEOGRAPHY06-MANUFACTURING_INDUSTRIES.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY06-MANUFACTURING_INDUSTRIES.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-GEOGRAPHY7-LIFELINES_OF_NATIONAL_ECONOMY.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY7-LIFELINES_OF_NATIONAL_ECONOMY.pdf"
+                  "name": "SSC-GEOGRAPHY07-LIFELINES_OF_NATIONAL_ECONOMY.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/GEOGRAPHY/SSC-GEOGRAPHY07-LIFELINES_OF_NATIONAL_ECONOMY.pdf"
                 }
               ]
             },
@@ -3336,28 +3367,28 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY1-RISE_OF_NATIONALISM_IN_EUROPE.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY1-RISE_OF_NATIONALISM_IN_EUROPE.pdf"
+                  "name": "SSC-HISTORY01-RISE_OF_NATIONALISM_IN_EUROPE.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY01-RISE_OF_NATIONALISM_IN_EUROPE.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY2-NATIONALISM_IN_INDIA.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY2-NATIONALISM_IN_INDIA.pdf"
+                  "name": "SSC-HISTORY02-NATIONALISM_IN_INDIA.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY02-NATIONALISM_IN_INDIA.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY3-THE_MAKING_OF_A_GLOBAL_WORLD.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY3-THE_MAKING_OF_A_GLOBAL_WORLD.pdf"
+                  "name": "SSC-HISTORY03-THE_MAKING_OF_A_GLOBAL_WORLD.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY03-THE_MAKING_OF_A_GLOBAL_WORLD.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY4-AGE_OF_INDUSTRY.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY4-AGE_OF_INDUSTRY.pdf"
+                  "name": "SSC-HISTORY04-AGE_OF_INDUSTRY.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY04-AGE_OF_INDUSTRY.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-HISTORY5-PRINT_CULTURE_AND_THE_MODERN_WORLD.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY5-PRINT_CULTURE_AND_THE_MODERN_WORLD.pdf"
+                  "name": "SSC-HISTORY05-PRINT_CULTURE_AND_THE_MODERN_WORLD.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/HISTORY/SSC-HISTORY05-PRINT_CULTURE_AND_THE_MODERN_WORLD.pdf"
                 }
               ]
             },
@@ -3367,28 +3398,28 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "SSC-POLITICAL_SCIENCE1-POWER_SHARING.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE1-POWER_SHARING.pdf"
+                  "name": "SSC-POLITICAL_SCIENCE01-POWER_SHARING.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE01-POWER_SHARING.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-POLITICAL_SCIENCE2-FEDERALISM.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE2-FEDERALISM.pdf"
+                  "name": "SSC-POLITICAL_SCIENCE02-FEDERALISM.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE02-FEDERALISM.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-POLITICAL_SCIENCE3-GENDER_RELIGION_AND_CASTE.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE3-GENDER_RELIGION_AND_CASTE.pdf"
+                  "name": "SSC-POLITICAL_SCIENCE03-GENDER_RELIGION_AND_CASTE.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE03-GENDER_RELIGION_AND_CASTE.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-POLITICAL_SCIENCE4-POLITICAL_PARTIES.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE4-POLITICAL_PARTIES.pdf"
+                  "name": "SSC-POLITICAL_SCIENCE04-POLITICAL_PARTIES.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE04-POLITICAL_PARTIES.pdf"
                 },
                 {
                   "type": "file",
-                  "name": "SSC-POLITICAL_SCIENCE5-OUTCOMES_OF_DEMOCRACY.pdf",
-                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE5-OUTCOMES_OF_DEMOCRACY.pdf"
+                  "name": "SSC-POLITICAL_SCIENCE05-OUTCOMES_OF_DEMOCRACY.pdf",
+                  "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE05-OUTCOMES_OF_DEMOCRACY.pdf"
                 }
               ]
             }
