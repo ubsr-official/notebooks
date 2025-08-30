@@ -2196,6 +2196,27 @@
                   "name": "CHEMICAL_REACTIONS_AND_EQUATIONS",
                   "children": [
                     {
+                      "type": "folder",
+                      "name": "SQPs",
+                      "children": [
+                        {
+                          "type": "file",
+                          "name": "SQPA.md",
+                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/SQPs/SQPA.md"
+                        },
+                        {
+                          "type": "file",
+                          "name": "SQPB.md",
+                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/SQPs/SQPB.md"
+                        },
+                        {
+                          "type": "file",
+                          "name": "SQPC.md",
+                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/SQPs/SQPC.md"
+                        }
+                      ]
+                    },
+                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/LAQs.md"
