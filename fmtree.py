@@ -7,7 +7,8 @@ EXCLUDED_ROOT_FILES = {
     "fmtree.py",
     "index.html",
     "favicon.png",
-    "fallback.html"
+    "fallback.html",
+    "Checklist.md"
 }
 
 def sort_tree_items(tree):
