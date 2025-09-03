@@ -7151,11 +7151,6 @@
     },
     {
       "type": "file",
-      "name": "CONTRIBUTERS.md",
-      "path": "CONTRIBUTERS.md"
-    },
-    {
-      "type": "file",
       "name": "files.json",
       "path": "files.json"
     },
