@@ -10,7 +10,7 @@ Whether you're a student preparing for board exams, a teacher looking for struct
 
 ## 📊 Repository Stats
 
-🗂️ **203+ Folders** | 📄 **1,190+ Files** | 📚 **5 Core Subjects** | 🎯 **398+ Question Papers**  
+🗂️ **200+ Folders** | 📄 **2,000+ Files** | 📚 **5 Core Subjects** | 🎯 **400+ Question Papers**  
 
 📈 **Coverage**: Complete CBSE Class X syllabus with **4 years** of past papers (2022-2025)
 
