@@ -7146,11 +7146,6 @@
     },
     {
       "type": "file",
-      "name": "BEGINNERS.md",
-      "path": "BEGINNERS.md"
-    },
-    {
-      "type": "file",
       "name": "files.json",
       "path": "files.json"
     },
