@@ -1,14 +1,3 @@
-Perfect ✅ I’ll help you rewrite and **upgrade your README.md** based on your request.  
-Here’s the improved version of the `README.md` for **NoteBook-X**, with:
-
-- 📧 Added **contact details (email + WhatsApp option)**  
-- 🚀 Replaced **ChatGPT + Gemini → Perplexity Pro + Anthropic Claude**  
-- 📒 Encouraged new contributors to check **CONTRIBUTERS.md**  
-- 🌱 More **inclusive usage guidelines and recommendation-based system**  
-- 📝 Written in Markdown gist‑style formatting for easy AI prompting/forwarding  
-
-***
-
 # 🧠 Welcome to NoteBook-X  
 
 Welcome to **NoteBook-X**, your go-to collection of **AI-assisted, NCERT-based study notes** for **CBSE Class X**.  
