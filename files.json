@@ -6827,6 +6827,11 @@
           "children": [
             {
               "type": "file",
+              "name": "INFORMATION_TECHNOLOGY01-EMPLOYABILITY_SKILLS.pdf",
+              "path": "NCERT-PDF/INFORMATION-TECHNOLOGY/INFORMATION_TECHNOLOGY01-EMPLOYABILITY_SKILLS.pdf"
+            },
+            {
+              "type": "file",
               "name": "INFORMATION_TECHNOLOGY02-DOMESTIC_DATA_ENTRY_OPERATOR.pdf",
               "path": "NCERT-PDF/INFORMATION-TECHNOLOGY/INFORMATION_TECHNOLOGY02-DOMESTIC_DATA_ENTRY_OPERATOR.pdf"
             }
