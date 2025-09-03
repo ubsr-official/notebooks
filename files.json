@@ -6332,6 +6332,11 @@
                 },
                 {
                   "type": "file",
+                  "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
+                  "path": "CBSE-SOURCES/CBSE-SQPs/CBSE-24/INFORMATION_TECHNOLOGY-SQP.pdf"
+                },
+                {
+                  "type": "file",
                   "name": "MATHEMATICS-SQP.pdf",
                   "path": "CBSE-SOURCES/CBSE-SQPs/CBSE-24/MATHEMATICS-SQP.pdf"
                 },
@@ -6365,6 +6370,11 @@
                   "type": "file",
                   "name": "HINDI-SQP.pdf",
                   "path": "CBSE-SOURCES/CBSE-SQPs/CBSE-25/HINDI-SQP.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "INFORMATION_TECHNOLOGY-SQP.pdf",
+                  "path": "CBSE-SOURCES/CBSE-SQPs/CBSE-25/INFORMATION_TECHNOLOGY-SQP.pdf"
                 },
                 {
                   "type": "file",
