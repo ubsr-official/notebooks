@@ -1841,6 +1841,11 @@
                 },
                 {
                   "type": "file",
+                  "name": "NOTES.md",
+                  "path": "AI-NOTES/INFORMATION-TECHNOLOGY/DIGITAL-SPREADSHEET/NOTES.md"
+                },
+                {
+                  "type": "file",
                   "name": "SAQs.md",
                   "path": "AI-NOTES/INFORMATION-TECHNOLOGY/DIGITAL-SPREADSHEET/SAQs.md"
                 }
