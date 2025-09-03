@@ -6823,6 +6823,17 @@
         },
         {
           "type": "folder",
+          "name": "INFORMATION-TECHNOLOGY",
+          "children": [
+            {
+              "type": "file",
+              "name": "INFORMATION_TECHNOLOGY02-DOMESTIC_DATA_ENTRY_OPERATOR.pdf",
+              "path": "NCERT-PDF/INFORMATION-TECHNOLOGY/INFORMATION_TECHNOLOGY02-DOMESTIC_DATA_ENTRY_OPERATOR.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "MATHS",
           "children": [
             {
