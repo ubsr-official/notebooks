@@ -1768,7 +1768,7 @@
                 },
                 {
                   "type": "folder",
-                  "name": "HEREDITY_AND_EVOLUTION",
+                  "name": "HEREDITY",
                   "children": [
                     {
                       "type": "folder",
@@ -1777,39 +1777,39 @@
                         {
                           "type": "file",
                           "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY_AND_EVOLUTION/SQPs/SQPA.md"
+                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/SQPs/SQPA.md"
                         },
                         {
                           "type": "file",
                           "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY_AND_EVOLUTION/SQPs/SQPB.md"
+                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/SQPs/SQPB.md"
                         },
                         {
                           "type": "file",
                           "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY_AND_EVOLUTION/SQPs/SQPC.md"
+                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/SQPs/SQPC.md"
                         }
                       ]
                     },
                     {
                       "type": "file",
                       "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY_AND_EVOLUTION/LAQs.md"
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/LAQs.md"
                     },
                     {
                       "type": "file",
                       "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY_AND_EVOLUTION/MCQs.md"
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/MCQs.md"
                     },
                     {
                       "type": "file",
                       "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY_AND_EVOLUTION/NOTES.md"
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/NOTES.md"
                     },
                     {
                       "type": "file",
                       "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY_AND_EVOLUTION/SAQs.md"
+                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/SAQs.md"
                     }
                   ]
                 },
