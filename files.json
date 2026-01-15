@@ -1724,45 +1724,9 @@
                   "name": "CONTROL_AND_COORDINATION",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/CONTROL_AND_COORDINATION/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/CONTROL_AND_COORDINATION/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/CONTROL_AND_COORDINATION/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/CONTROL_AND_COORDINATION/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/CONTROL_AND_COORDINATION/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/BIOLOGY/CONTROL_AND_COORDINATION/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/CONTROL_AND_COORDINATION/SAQs.md"
                     }
                   ]
                 },
@@ -1771,45 +1735,9 @@
                   "name": "HEREDITY",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HEREDITY/SAQs.md"
                     }
                   ]
                 },
@@ -1818,45 +1746,9 @@
                   "name": "HOW_DO_ORGANISMS_REPRODUCE",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/HOW_DO_ORGANISMS_REPRODUCE/SAQs.md"
                     }
                   ]
                 },
@@ -1865,45 +1757,9 @@
                   "name": "LIFE_PROCESSES",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/LIFE_PROCESSES/SAQs.md"
                     }
                   ]
                 },
@@ -1965,45 +1821,9 @@
                   "name": "ACIDS_BASES_AND_SALTS",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/ACIDS_BASES_AND_SALTS/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/ACIDS_BASES_AND_SALTS/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/ACIDS_BASES_AND_SALTS/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/ACIDS_BASES_AND_SALTS/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/ACIDS_BASES_AND_SALTS/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/CHEMISTRY/ACIDS_BASES_AND_SALTS/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/ACIDS_BASES_AND_SALTS/SAQs.md"
                     }
                   ]
                 },
@@ -2012,45 +1832,9 @@
                   "name": "CARBON_AND_ITS_COMPOUNDS",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/CARBON_AND_ITS_COMPOUNDS/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/CARBON_AND_ITS_COMPOUNDS/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/CARBON_AND_ITS_COMPOUNDS/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/CARBON_AND_ITS_COMPOUNDS/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/CARBON_AND_ITS_COMPOUNDS/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/CHEMISTRY/CARBON_AND_ITS_COMPOUNDS/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/CARBON_AND_ITS_COMPOUNDS/SAQs.md"
                     }
                   ]
                 },
@@ -2059,45 +1843,9 @@
                   "name": "CHEMICAL_REACTIONS_AND_EQUATIONS",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/CHEMICAL_REACTIONS_AND_EQUATIONS/SAQs.md"
                     }
                   ]
                 },
@@ -2106,45 +1854,9 @@
                   "name": "METALS_AND_NON-METALS",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/METALS_AND_NON-METALS/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/METALS_AND_NON-METALS/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/CHEMISTRY/METALS_AND_NON-METALS/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/METALS_AND_NON-METALS/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/METALS_AND_NON-METALS/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/CHEMISTRY/METALS_AND_NON-METALS/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/METALS_AND_NON-METALS/SAQs.md"
                     }
                   ]
                 }
@@ -2159,45 +1871,9 @@
                   "name": "ELECTRICITY",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/ELECTRICITY/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/ELECTRICITY/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/ELECTRICITY/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/ELECTRICITY/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/ELECTRICITY/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/PHYSICS/ELECTRICITY/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/ELECTRICITY/SAQs.md"
                     }
                   ]
                 },
@@ -2206,45 +1882,9 @@
                   "name": "LIGHT-REFLECTION_AND_REFRACTION",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/LIGHT-REFLECTION_AND_REFRACTION/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/LIGHT-REFLECTION_AND_REFRACTION/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/LIGHT-REFLECTION_AND_REFRACTION/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/LIGHT-REFLECTION_AND_REFRACTION/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/LIGHT-REFLECTION_AND_REFRACTION/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/PHYSICS/LIGHT-REFLECTION_AND_REFRACTION/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/LIGHT-REFLECTION_AND_REFRACTION/SAQs.md"
                     }
                   ]
                 },
@@ -2253,45 +1893,9 @@
                   "name": "MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/PHYSICS/MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT/SAQs.md"
                     }
                   ]
                 },
@@ -2300,45 +1904,9 @@
                   "name": "THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/PHYSICS/THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/PHYSICS/THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD/SAQs.md"
                     }
                   ]
                 }
@@ -2359,45 +1927,9 @@
                   "name": "CONSUMER_RIGHTS",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/CONSUMER_RIGHTS/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/CONSUMER_RIGHTS/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/CONSUMER_RIGHTS/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/CONSUMER_RIGHTS/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/CONSUMER_RIGHTS/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/CONSUMER_RIGHTS/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/CONSUMER_RIGHTS/SAQs.md"
                     }
                   ]
                 },
@@ -2405,27 +1937,6 @@
                   "type": "folder",
                   "name": "DEVELOPMENT",
                   "children": [
-                    {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/DEVELOPMENT/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/DEVELOPMENT/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/DEVELOPMENT/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
                     {
                       "type": "file",
                       "name": "LAQs.md",
@@ -2453,45 +1964,9 @@
                   "name": "GLOBALISATION_AND_THE_INDIAN_ECONOMY",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/GLOBALISATION_AND_THE_INDIAN_ECONOMY/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/GLOBALISATION_AND_THE_INDIAN_ECONOMY/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/GLOBALISATION_AND_THE_INDIAN_ECONOMY/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/GLOBALISATION_AND_THE_INDIAN_ECONOMY/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/GLOBALISATION_AND_THE_INDIAN_ECONOMY/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/GLOBALISATION_AND_THE_INDIAN_ECONOMY/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/GLOBALISATION_AND_THE_INDIAN_ECONOMY/SAQs.md"
                     }
                   ]
                 },
@@ -2500,45 +1975,9 @@
                   "name": "MONEY_AND_CREDIT",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/MONEY_AND_CREDIT/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/MONEY_AND_CREDIT/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/MONEY_AND_CREDIT/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/MONEY_AND_CREDIT/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/MONEY_AND_CREDIT/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/MONEY_AND_CREDIT/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/MONEY_AND_CREDIT/SAQs.md"
                     }
                   ]
                 },
@@ -2547,45 +1986,9 @@
                   "name": "SECTORS_OF_INDIAN_ECONOMY",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/SECTORS_OF_INDIAN_ECONOMY/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/SECTORS_OF_INDIAN_ECONOMY/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/SECTORS_OF_INDIAN_ECONOMY/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/SECTORS_OF_INDIAN_ECONOMY/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/SECTORS_OF_INDIAN_ECONOMY/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/SECTORS_OF_INDIAN_ECONOMY/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/SECTORS_OF_INDIAN_ECONOMY/SAQs.md"
                     }
                   ]
                 }
@@ -2600,45 +2003,9 @@
                   "name": "AGRICULTURE",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/AGRICULTURE/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/AGRICULTURE/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/AGRICULTURE/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/AGRICULTURE/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/AGRICULTURE/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/AGRICULTURE/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/AGRICULTURE/SAQs.md"
                     }
                   ]
                 },
