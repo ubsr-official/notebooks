@@ -251,23 +251,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/DEVELOPMENT/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/DEVELOPMENT/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/DEVELOPMENT/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/DEVELOPMENT/SAQs.md"
                     }
                   ]
                 },
@@ -327,23 +312,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/FOREST_AND_WILDLIFE_RESOURCES/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/FOREST_AND_WILDLIFE_RESOURCES/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/FOREST_AND_WILDLIFE_RESOURCES/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/FOREST_AND_WILDLIFE_RESOURCES/SAQs.md"
                     }
                   ]
                 },
@@ -353,23 +323,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/LIFELINES_OF_NATIONAL_ECONOMY/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/LIFELINES_OF_NATIONAL_ECONOMY/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/LIFELINES_OF_NATIONAL_ECONOMY/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/LIFELINES_OF_NATIONAL_ECONOMY/SAQs.md"
                     }
                   ]
                 },
@@ -379,23 +334,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MANUFACTURING_INDUSTRIES/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MANUFACTURING_INDUSTRIES/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MANUFACTURING_INDUSTRIES/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MANUFACTURING_INDUSTRIES/SAQs.md"
                     }
                   ]
                 },
@@ -405,23 +345,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MINERALS_AND_ENERGY_RESOURCES/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MINERALS_AND_ENERGY_RESOURCES/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MINERALS_AND_ENERGY_RESOURCES/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MINERALS_AND_ENERGY_RESOURCES/SAQs.md"
                     }
                   ]
                 },
@@ -431,23 +356,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/RESOURCES_AND_DEVELOPMENT/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/RESOURCES_AND_DEVELOPMENT/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/RESOURCES_AND_DEVELOPMENT/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/RESOURCES_AND_DEVELOPMENT/SAQs.md"
                     }
                   ]
                 },
@@ -457,23 +367,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/WATER_RESOURCES/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/WATER_RESOURCES/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/WATER_RESOURCES/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/WATER_RESOURCES/SAQs.md"
                     }
                   ]
                 }
@@ -489,23 +384,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/NATIONALISM_IN_INDIA/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/NATIONALISM_IN_INDIA/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/NATIONALISM_IN_INDIA/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/NATIONALISM_IN_INDIA/SAQs.md"
                     }
                   ]
                 },
@@ -515,23 +395,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/PRINT_CULTURE_AND_THE_MODERN_WORLD/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/PRINT_CULTURE_AND_THE_MODERN_WORLD/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/PRINT_CULTURE_AND_THE_MODERN_WORLD/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/PRINT_CULTURE_AND_THE_MODERN_WORLD/SAQs.md"
                     }
                   ]
                 },
@@ -541,23 +406,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_AGE_OF_INDUSTRIALISATION/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_AGE_OF_INDUSTRIALISATION/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_AGE_OF_INDUSTRIALISATION/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_AGE_OF_INDUSTRIALISATION/SAQs.md"
                     }
                   ]
                 },
@@ -567,23 +417,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_MAKING_OF_A_GLOBAL_WORLD/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_MAKING_OF_A_GLOBAL_WORLD/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_MAKING_OF_A_GLOBAL_WORLD/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_MAKING_OF_A_GLOBAL_WORLD/SAQs.md"
                     }
                   ]
                 },
@@ -593,23 +428,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_RISE_OF_NATIONALISM_IN_EUROPE/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_RISE_OF_NATIONALISM_IN_EUROPE/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_RISE_OF_NATIONALISM_IN_EUROPE/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_RISE_OF_NATIONALISM_IN_EUROPE/SAQs.md"
                     }
                   ]
                 }
@@ -625,23 +445,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/FEDERALISM/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/FEDERALISM/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/FEDERALISM/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/FEDERALISM/SAQs.md"
                     }
                   ]
                 },
@@ -651,23 +456,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/GENDER_RELIGION_AND_CASTE/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/GENDER_RELIGION_AND_CASTE/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/GENDER_RELIGION_AND_CASTE/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/GENDER_RELIGION_AND_CASTE/SAQs.md"
                     }
                   ]
                 },
@@ -677,23 +467,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/OUTCOMES_OF_DEMOCRACY/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/OUTCOMES_OF_DEMOCRACY/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/OUTCOMES_OF_DEMOCRACY/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/OUTCOMES_OF_DEMOCRACY/SAQs.md"
                     }
                   ]
                 },
@@ -703,23 +478,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POLITICAL_PARTIES/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POLITICAL_PARTIES/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POLITICAL_PARTIES/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POLITICAL_PARTIES/SAQs.md"
                     }
                   ]
                 },
@@ -729,23 +489,8 @@
                   "children": [
                     {
                       "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POWER_SHARING/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POWER_SHARING/MCQs.md"
-                    },
-                    {
-                      "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POWER_SHARING/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POWER_SHARING/SAQs.md"
                     }
                   ]
                 }
