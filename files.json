@@ -326,27 +326,6 @@
                   "name": "FOREST_AND_WILDLIFE_RESOURCES",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/FOREST_AND_WILDLIFE_RESOURCES/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/FOREST_AND_WILDLIFE_RESOURCES/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/FOREST_AND_WILDLIFE_RESOURCES/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/FOREST_AND_WILDLIFE_RESOURCES/LAQs.md"
@@ -372,27 +351,6 @@
                   "type": "folder",
                   "name": "LIFELINES_OF_NATIONAL_ECONOMY",
                   "children": [
-                    {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/LIFELINES_OF_NATIONAL_ECONOMY/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/LIFELINES_OF_NATIONAL_ECONOMY/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/LIFELINES_OF_NATIONAL_ECONOMY/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
                     {
                       "type": "file",
                       "name": "LAQs.md",
@@ -420,27 +378,6 @@
                   "name": "MANUFACTURING_INDUSTRIES",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MANUFACTURING_INDUSTRIES/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MANUFACTURING_INDUSTRIES/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MANUFACTURING_INDUSTRIES/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MANUFACTURING_INDUSTRIES/LAQs.md"
@@ -466,27 +403,6 @@
                   "type": "folder",
                   "name": "MINERALS_AND_ENERGY_RESOURCES",
                   "children": [
-                    {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MINERALS_AND_ENERGY_RESOURCES/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MINERALS_AND_ENERGY_RESOURCES/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/MINERALS_AND_ENERGY_RESOURCES/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
                     {
                       "type": "file",
                       "name": "LAQs.md",
@@ -514,27 +430,6 @@
                   "name": "RESOURCES_AND_DEVELOPMENT",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/RESOURCES_AND_DEVELOPMENT/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/RESOURCES_AND_DEVELOPMENT/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/RESOURCES_AND_DEVELOPMENT/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/RESOURCES_AND_DEVELOPMENT/LAQs.md"
@@ -560,27 +455,6 @@
                   "type": "folder",
                   "name": "WATER_RESOURCES",
                   "children": [
-                    {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/WATER_RESOURCES/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/WATER_RESOURCES/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/WATER_RESOURCES/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
                     {
                       "type": "file",
                       "name": "LAQs.md",
@@ -614,27 +488,6 @@
                   "name": "NATIONALISM_IN_INDIA",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/NATIONALISM_IN_INDIA/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/NATIONALISM_IN_INDIA/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/NATIONALISM_IN_INDIA/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/NATIONALISM_IN_INDIA/LAQs.md"
@@ -660,27 +513,6 @@
                   "type": "folder",
                   "name": "PRINT_CULTURE_AND_THE_MODERN_WORLD",
                   "children": [
-                    {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/PRINT_CULTURE_AND_THE_MODERN_WORLD/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/PRINT_CULTURE_AND_THE_MODERN_WORLD/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/PRINT_CULTURE_AND_THE_MODERN_WORLD/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
                     {
                       "type": "file",
                       "name": "LAQs.md",
@@ -708,27 +540,6 @@
                   "name": "THE_AGE_OF_INDUSTRIALISATION",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_AGE_OF_INDUSTRIALISATION/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_AGE_OF_INDUSTRIALISATION/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_AGE_OF_INDUSTRIALISATION/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_AGE_OF_INDUSTRIALISATION/LAQs.md"
@@ -755,27 +566,6 @@
                   "name": "THE_MAKING_OF_A_GLOBAL_WORLD",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_MAKING_OF_A_GLOBAL_WORLD/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_MAKING_OF_A_GLOBAL_WORLD/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_MAKING_OF_A_GLOBAL_WORLD/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_MAKING_OF_A_GLOBAL_WORLD/LAQs.md"
@@ -801,27 +591,6 @@
                   "type": "folder",
                   "name": "THE_RISE_OF_NATIONALISM_IN_EUROPE",
                   "children": [
-                    {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_RISE_OF_NATIONALISM_IN_EUROPE/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_RISE_OF_NATIONALISM_IN_EUROPE/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/THE_RISE_OF_NATIONALISM_IN_EUROPE/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
                     {
                       "type": "file",
                       "name": "LAQs.md",
@@ -855,27 +624,6 @@
                   "name": "FEDERALISM",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/FEDERALISM/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/FEDERALISM/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/FEDERALISM/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/FEDERALISM/LAQs.md"
@@ -901,27 +649,6 @@
                   "type": "folder",
                   "name": "GENDER_RELIGION_AND_CASTE",
                   "children": [
-                    {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/GENDER_RELIGION_AND_CASTE/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/GENDER_RELIGION_AND_CASTE/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/GENDER_RELIGION_AND_CASTE/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
                     {
                       "type": "file",
                       "name": "LAQs.md",
@@ -949,27 +676,6 @@
                   "name": "OUTCOMES_OF_DEMOCRACY",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/OUTCOMES_OF_DEMOCRACY/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/OUTCOMES_OF_DEMOCRACY/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/OUTCOMES_OF_DEMOCRACY/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/OUTCOMES_OF_DEMOCRACY/LAQs.md"
@@ -996,27 +702,6 @@
                   "name": "POLITICAL_PARTIES",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POLITICAL_PARTIES/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POLITICAL_PARTIES/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POLITICAL_PARTIES/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
                       "type": "file",
                       "name": "LAQs.md",
                       "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POLITICAL_PARTIES/LAQs.md"
@@ -1042,27 +727,6 @@
                   "type": "folder",
                   "name": "POWER_SHARING",
                   "children": [
-                    {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POWER_SHARING/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POWER_SHARING/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/POWER_SHARING/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
                     {
                       "type": "file",
                       "name": "LAQs.md",
