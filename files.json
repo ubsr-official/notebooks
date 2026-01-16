@@ -4096,6 +4096,49 @@
       ]
     },
     {
+      "type": "folder",
+      "name": "PB-PAPERS",
+      "children": [
+        {
+          "type": "folder",
+          "name": "ASIAN_INTERNATIONAL_SCHOOL",
+          "children": [
+            {
+              "type": "folder",
+              "name": "ARCHIVES",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-CONDENSED(2024-25).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/ARCHIVES/BENGALI-CONDENSED(2024-25).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-CONDENSED(2024-25).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/ARCHIVES/ENGLISH-CONDENSED(2024-25).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-CONDENSED(2024-25).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/ARCHIVES/MATHEMATICS-CONDENSED(2024-25).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-CONDENSED(2024-25).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/ARCHIVES/SCIENCE-CONDENSED(2024-25).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-CONDENSED(2024-25).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/ARCHIVES/SOCIAL_SCIENCE-CONDENSED(2024-25).pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "file",
       "name": "files.json",
       "path": "files.json"
