@@ -4138,6 +4138,74 @@
         },
         {
           "type": "folder",
+          "name": "DELHI_PUBLIC_SCHOOL_HOWRAH",
+          "children": [
+            {
+              "type": "folder",
+              "name": "PRE-BOARD-I",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-I/BENGALI-PBI(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-I/ENGLISH-PBI(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-I/MATHEMATICS-PBI(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-I/SCIENCE-PBI(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-I/SOCIAL_SCIENCE-PBI(2025-26).pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "PRE-BOARD-II",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-II/BENGALI-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-II/ENGLISH-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-II/MATHEMATICS-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-II/SCIENCE-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/DELHI_PUBLIC_SCHOOL_HOWRAH/PRE-BOARD-II/SOCIAL_SCIENCE-PBII(2025-26).pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "GOKHALE_MEMORIAL_GIRLS_SCHOOL",
           "children": [
             {
