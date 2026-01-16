@@ -4135,6 +4135,64 @@
               ]
             }
           ]
+        },
+        {
+          "type": "folder",
+          "name": "GOKHALE_MEMORIAL_GIRLS_SCHOOL",
+          "children": [
+            {
+              "type": "folder",
+              "name": "PRE-BOARD-I",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/GOKHALE_MEMORIAL_GIRLS_SCHOOL/PRE-BOARD-I/BENGALI-PBI(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/GOKHALE_MEMORIAL_GIRLS_SCHOOL/PRE-BOARD-I/SCIENCE-PBI(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/GOKHALE_MEMORIAL_GIRLS_SCHOOL/PRE-BOARD-I/SOCIAL_SCIENCE-PBI(2025-26).pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "PRE-BOARD-II",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "BENGALI-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/GOKHALE_MEMORIAL_GIRLS_SCHOOL/PRE-BOARD-II/BENGALI-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "ENGLISH-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/GOKHALE_MEMORIAL_GIRLS_SCHOOL/PRE-BOARD-II/ENGLISH-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "MATHEMATICS-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/GOKHALE_MEMORIAL_GIRLS_SCHOOL/PRE-BOARD-II/MATHEMATICS-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/GOKHALE_MEMORIAL_GIRLS_SCHOOL/PRE-BOARD-II/SCIENCE-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/GOKHALE_MEMORIAL_GIRLS_SCHOOL/PRE-BOARD-II/SOCIAL_SCIENCE-PBII(2025-26).pdf"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
