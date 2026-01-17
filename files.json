@@ -80,45 +80,9 @@
                   "name": "OUR_ENVIRONMENT",
                   "children": [
                     {
-                      "type": "folder",
-                      "name": "SQPs",
-                      "children": [
-                        {
-                          "type": "file",
-                          "name": "SQPA.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/OUR_ENVIRONMENT/SQPs/SQPA.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPB.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/OUR_ENVIRONMENT/SQPs/SQPB.md"
-                        },
-                        {
-                          "type": "file",
-                          "name": "SQPC.md",
-                          "path": "AI-NOTES/SCIENCE/BIOLOGY/OUR_ENVIRONMENT/SQPs/SQPC.md"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "file",
-                      "name": "LAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/OUR_ENVIRONMENT/LAQs.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "MCQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/OUR_ENVIRONMENT/MCQs.md"
-                    },
-                    {
                       "type": "file",
                       "name": "NOTES.md",
                       "path": "AI-NOTES/SCIENCE/BIOLOGY/OUR_ENVIRONMENT/NOTES.md"
-                    },
-                    {
-                      "type": "file",
-                      "name": "SAQs.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/OUR_ENVIRONMENT/SAQs.md"
                     }
                   ]
                 }
