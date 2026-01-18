@@ -4225,6 +4225,17 @@
               ]
             }
           ]
+        },
+        {
+          "type": "folder",
+          "name": "MISCELLANEOUS",
+          "children": [
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-01(MISCELLANEOUS).pdf",
+              "path": "PB-PAPERS/MISCELLANEOUS/SOCIAL_SCIENCE-01(MISCELLANEOUS).pdf"
+            }
+          ]
         }
       ]
     },
