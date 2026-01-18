@@ -4228,6 +4228,374 @@
         },
         {
           "type": "folder",
+          "name": "KENDRIYA_VIDYALAY",
+          "children": [
+            {
+              "type": "folder",
+              "name": "BENGALURU",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "MARKING-SCHEME",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "ARTIFICIAL_INTELLIGENCE-PBI(2025-26)-MS.pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/MARKING-SCHEME/ARTIFICIAL_INTELLIGENCE-PBI(2025-26)-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "ENGLISH_COMMUNICATIVE-PBI(2025-26)-MS.pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/MARKING-SCHEME/ENGLISH_COMMUNICATIVE-PBI(2025-26)-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "HINDI-PBI(2025-26)-PBI-MS.pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/MARKING-SCHEME/HINDI-PBI(2025-26)-PBI-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHEMATICS-PBI(2025-26)-MS.pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/MARKING-SCHEME/MATHEMATICS-PBI(2025-26)-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHEMATICS_BASIC-PBI(2025-26)-MS.pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/MARKING-SCHEME/MATHEMATICS_BASIC-PBI(2025-26)-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SANSKRIT-PBI(2025-26)-MS.pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/MARKING-SCHEME/SANSKRIT-PBI(2025-26)-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SCIENCE-PBI(2025-26)-MS.pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/MARKING-SCHEME/SCIENCE-PBI(2025-26)-MS.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SOCIAL_SCIENCE-PBI(2025-26)-MS.pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/MARKING-SCHEME/SOCIAL_SCIENCE-PBI(2025-26)-MS.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "PRE-BOARD-I",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "ENGLISH_COMMUNICATIVE-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/PRE-BOARD-I/ENGLISH_COMMUNICATIVE-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "HINDI-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/PRE-BOARD-I/HINDI-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHEMATICS-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/PRE-BOARD-I/MATHEMATICS-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHS_BASIC-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/PRE-BOARD-I/MATHS_BASIC-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SANSKRIT-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/PRE-BOARD-I/SANSKRIT-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SCIENCE-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/PRE-BOARD-I/SCIENCE-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SOCIAL_SCIENCE-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/BENGALURU/PRE-BOARD-I/SOCIAL_SCIENCE-PBI(2025-26).pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "build",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "BHUVANESWAR",
+                  "children": [
+                    {
+                      "type": "folder",
+                      "name": "MARKING-SCHEME",
+                      "children": [
+                        {
+                          "type": "file",
+                          "name": "ARTIFICIAL_INTELLIGENCE-PBI(2024-25)-MS.pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/MARKING-SCHEME/ARTIFICIAL_INTELLIGENCE-PBI(2024-25)-MS.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "ENGLISH_COMMUNICATIVE-PBI(2024-25)-MS.pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/MARKING-SCHEME/ENGLISH_COMMUNICATIVE-PBI(2024-25)-MS.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "HINDI-PBI(2024-25)-MS.pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/MARKING-SCHEME/HINDI-PBI(2024-25)-MS.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "MATHEMATICS-PBI(2024-25)-MS.pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/MARKING-SCHEME/MATHEMATICS-PBI(2024-25)-MS.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "MATHS_BASIC-PBI(2024-25)-MS.pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/MARKING-SCHEME/MATHS_BASIC-PBI(2024-25)-MS.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "SANSKRIT-PBI(2024-25)-MS.pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/MARKING-SCHEME/SANSKRIT-PBI(2024-25)-MS.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "SCIENCE-PBI(2024-25)-MS.pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/MARKING-SCHEME/SCIENCE-PBI(2024-25)-MS.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "SOCIAL_SCIENCE-PBI(2024-25)-MS.pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/MARKING-SCHEME/SOCIAL_SCIENCE-PBI(2024-25)-MS.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "folder",
+                      "name": "PRE-BOARD-I",
+                      "children": [
+                        {
+                          "type": "file",
+                          "name": "ARTIFICIAL_INTELLIGENCE-PBI(2024-25).pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/PRE-BOARD-I/ARTIFICIAL_INTELLIGENCE-PBI(2024-25).pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "ENGLISH_COMMUNICATIVE-PBI(2024-25).pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/PRE-BOARD-I/ENGLISH_COMMUNICATIVE-PBI(2024-25).pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "HINDI-PBI(2024-25).pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/PRE-BOARD-I/HINDI-PBI(2024-25).pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "MATHEMATICS-PBI(2024-25).pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/PRE-BOARD-I/MATHEMATICS-PBI(2024-25).pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "MATHS_BASIC-PBI(2024-25).pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/PRE-BOARD-I/MATHS_BASIC-PBI(2024-25).pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "SANSKRIT-PBI(2024-25).pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/PRE-BOARD-I/SANSKRIT-PBI(2024-25).pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "SCIENCE-PBI(2024-25).pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/PRE-BOARD-I/SCIENCE-PBI(2024-25).pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "SOCIAL_SCIENCE-PBI(2024-25).pdf",
+                          "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHUVANESWAR/PRE-BOARD-I/SOCIAL_SCIENCE-PBI(2024-25).pdf"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "JAMMU",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "X QP PB1S-20260118T164433Z-1-001.zip",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/JAMMU/X QP PB1S-20260118T164433Z-1-001.zip"
+                    },
+                    {
+                      "type": "file",
+                      "name": "X QP PB1W-20260118T164435Z-1-001.zip",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/JAMMU/X QP PB1W-20260118T164435Z-1-001.zip"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "KOLKATA(1)",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "MS-20260118T164541Z-1-001.zip",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/KOLKATA(1)/MS-20260118T164541Z-1-001.zip"
+                    },
+                    {
+                      "type": "file",
+                      "name": "QP-20260118T164540Z-1-001.zip",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/KOLKATA(1)/QP-20260118T164540Z-1-001.zip"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "SILCHAR",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "X-20260118T164056Z-1-001.zip",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/SILCHAR/X-20260118T164056Z-1-001.zip"
+                    },
+                    {
+                      "type": "file",
+                      "name": "X-20260118T164115Z-1-001.zip",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/SILCHAR/X-20260118T164115Z-1-001.zip"
+                    }
+                  ]
+                },
+                {
+                  "type": "file",
+                  "name": "AHMEDABAD.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/AHMEDABAD.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "BHOPAL.rar",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/BHOPAL.rar"
+                },
+                {
+                  "type": "file",
+                  "name": "CHENNAI.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/CHENNAI.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "DEHRADUN.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/DEHRADUN.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "DELHI.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/DELHI.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "ERNAKULAM.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/ERNAKULAM.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "GUWAHATI.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/GUWAHATI.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "HYDERABAD.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/HYDERABAD.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "KOLKATA.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/KOLKATA.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "MUMBAI.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/MUMBAI.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "PATNA.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/PATNA.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "RAIPUR(1).zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/RAIPUR(1).zip"
+                },
+                {
+                  "type": "file",
+                  "name": "RAIPUR.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/RAIPUR.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "RANCHI.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/RANCHI.zip"
+                },
+                {
+                  "type": "file",
+                  "name": "VARANASI.zip",
+                  "path": "PB-PAPERS/KENDRIYA_VIDYALAY/build/VARANASI.zip"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "JAIPUR",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "PRE-BOARD-I",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "ENGLISH-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/JAIPUR/PRE-BOARD-I/ENGLISH-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "HINDI-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/JAIPUR/PRE-BOARD-I/HINDI-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHEMATICS-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/JAIPUR/PRE-BOARD-I/MATHEMATICS-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "MATHS_BASICS-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/JAIPUR/PRE-BOARD-I/MATHS_BASICS-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SCIENCE-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/JAIPUR/PRE-BOARD-I/SCIENCE-PBI(2025-26).pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "SOCIAL_SCIENCE-PBI(2025-26).pdf",
+                      "path": "PB-PAPERS/KENDRIYA_VIDYALAY/JAIPUR/PRE-BOARD-I/SOCIAL_SCIENCE-PBI(2025-26).pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "MISCELLANEOUS",
           "children": [
             {
