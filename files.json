@@ -6634,12 +6634,18 @@
         },
         {
           "type": "folder",
-          "name": "MISCELLANEOUS",
+          "name": "NARAYANA_HOWRAH",
           "children": [
             {
-              "type": "file",
-              "name": "SOCIAL_SCIENCE-01(MISCELLANEOUS).pdf",
-              "path": "PB-PAPERS/MISCELLANEOUS/SOCIAL_SCIENCE-01(MISCELLANEOUS).pdf"
+              "type": "folder",
+              "name": "PRE-BOARD-I",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "SCIENCE-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/NARAYANA_HOWRAH/PRE-BOARD-I/SCIENCE-PBI(2025-26).pdf"
+                }
+              ]
             }
           ]
         }
