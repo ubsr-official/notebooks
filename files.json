@@ -4097,6 +4097,43 @@
                   "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/ARCHIVES/SOCIAL_SCIENCE-CONDENSED(2024-25).pdf"
                 }
               ]
+            },
+            {
+              "type": "folder",
+              "name": "PRE-BOARD-I",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "HINDI-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/PRE-BOARD-I/HINDI-PBI(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-PBI(2025-26).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/PRE-BOARD-I/SOCIAL_SCIENCE-PBI(2025-26).pdf"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "PRE-BOARD-II",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "ENGLISH-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/PRE-BOARD-II/ENGLISH-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SCIENCE-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/PRE-BOARD-II/SCIENCE-PBII(2025-26).pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "SOCIAL_SCIENCE-PBII(2025-26).pdf",
+                  "path": "PB-PAPERS/ASIAN_INTERNATIONAL_SCHOOL/PRE-BOARD-II/SOCIAL_SCIENCE-PBII(2025-26).pdf"
+                }
+              ]
             }
           ]
         },
@@ -6646,6 +6683,22 @@
                   "path": "PB-PAPERS/NARAYANA_HOWRAH/PRE-BOARD-I/SCIENCE-PBI(2025-26).pdf"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "SHRI-SHIKSHAYATAN",
+          "children": [
+            {
+              "type": "file",
+              "name": "MATHEMATICS-PREBOARD(2025-26).pdf",
+              "path": "PB-PAPERS/SHRI-SHIKSHAYATAN/MATHEMATICS-PREBOARD(2025-26).pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-PREBOARD(2025-26).pdf",
+              "path": "PB-PAPERS/SHRI-SHIKSHAYATAN/SCIENCE-PREBOARD(2025-26).pdf"
             }
           ]
         }
