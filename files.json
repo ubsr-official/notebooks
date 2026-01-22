@@ -3411,6 +3411,67 @@
               ]
             }
           ]
+        },
+        {
+          "type": "folder",
+          "name": "CFPQs",
+          "children": [
+            {
+              "type": "file",
+              "name": "ENGLISH-CBSE-CFPQs.pdf",
+              "path": "CBSE-SOURCES/CFPQs/ENGLISH-CBSE-CFPQs.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HINDI-CFPQs.pdf",
+              "path": "CBSE-SOURCES/CFPQs/HINDI-CFPQs.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-CFPQs-V1.pdf",
+              "path": "CBSE-SOURCES/CFPQs/MATHEMATICS-CFPQs-V1.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-CFPQs-V2.pdf",
+              "path": "CBSE-SOURCES/CFPQs/MATHEMATICS-CFPQs-V2.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-CFPQs-V3.pdf",
+              "path": "CBSE-SOURCES/CFPQs/MATHEMATICS-CFPQs-V3.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-CFPQs-V4.pdf",
+              "path": "CBSE-SOURCES/CFPQs/MATHEMATICS-CFPQs-V4.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-PB.pdf",
+              "path": "CBSE-SOURCES/CFPQs/MATHEMATICS-PB.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-CFPQs-V1.pdf",
+              "path": "CBSE-SOURCES/CFPQs/SCIENCE-CFPQs-V1.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SCIENCE-CFPQs-V2.pdf",
+              "path": "CBSE-SOURCES/CFPQs/SCIENCE-CFPQs-V2.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-CFPQs-V1.pdf",
+              "path": "CBSE-SOURCES/CFPQs/SOCIAL_SCIENCE-CFPQs-V1.pdf"
+            },
+            {
+              "type": "file",
+              "name": "SOCIAL_SCIENCE-CFPQs-V2.pdf",
+              "path": "CBSE-SOURCES/CFPQs/SOCIAL_SCIENCE-CFPQs-V2.pdf"
+            }
+          ]
         }
       ]
     },
@@ -6688,17 +6749,68 @@
         },
         {
           "type": "folder",
-          "name": "SHRI-SHIKSHAYATAN",
+          "name": "SHRI_SHIKSHAYATAN",
           "children": [
             {
               "type": "file",
               "name": "MATHEMATICS-PREBOARD(2025-26).pdf",
-              "path": "PB-PAPERS/SHRI-SHIKSHAYATAN/MATHEMATICS-PREBOARD(2025-26).pdf"
+              "path": "PB-PAPERS/SHRI_SHIKSHAYATAN/MATHEMATICS-PREBOARD(2025-26).pdf"
             },
             {
               "type": "file",
               "name": "SCIENCE-PREBOARD(2025-26).pdf",
-              "path": "PB-PAPERS/SHRI-SHIKSHAYATAN/SCIENCE-PREBOARD(2025-26).pdf"
+              "path": "PB-PAPERS/SHRI_SHIKSHAYATAN/SCIENCE-PREBOARD(2025-26).pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "SOUTH_POINT",
+          "children": [
+            {
+              "type": "file",
+              "name": "BENGALI-PTII(2025-26)-AK.pdf",
+              "path": "PB-PAPERS/SOUTH_POINT/BENGALI-PTII(2025-26)-AK.pdf"
+            },
+            {
+              "type": "file",
+              "name": "BIOLOGY-PTII(2025-26)-AK.pdf",
+              "path": "PB-PAPERS/SOUTH_POINT/BIOLOGY-PTII(2025-26)-AK.pdf"
+            },
+            {
+              "type": "file",
+              "name": "CHEMICAL-PTII(2025-26)-AK.pdf",
+              "path": "PB-PAPERS/SOUTH_POINT/CHEMICAL-PTII(2025-26)-AK.pdf"
+            },
+            {
+              "type": "file",
+              "name": "ECONOMICS-PTII(2025-26)-AK.pdf",
+              "path": "PB-PAPERS/SOUTH_POINT/ECONOMICS-PTII(2025-26)-AK.pdf"
+            },
+            {
+              "type": "file",
+              "name": "ENGLISH-PTII(2025-26)-AK.pdf",
+              "path": "PB-PAPERS/SOUTH_POINT/ENGLISH-PTII(2025-26)-AK.pdf"
+            },
+            {
+              "type": "file",
+              "name": "GEOGRAPHY-PTII(2025-26)-AK.pdf",
+              "path": "PB-PAPERS/SOUTH_POINT/GEOGRAPHY-PTII(2025-26)-AK.pdf"
+            },
+            {
+              "type": "file",
+              "name": "HISTORY_POLITICAL_SCIENCE-PTII(2025-26)-AK.pdf",
+              "path": "PB-PAPERS/SOUTH_POINT/HISTORY_POLITICAL_SCIENCE-PTII(2025-26)-AK.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MATHEMATICS-PTII(2025-26)-AK.pdf",
+              "path": "PB-PAPERS/SOUTH_POINT/MATHEMATICS-PTII(2025-26)-AK.pdf"
+            },
+            {
+              "type": "file",
+              "name": "PHYSICS-PTII(2025-26)-AK.pdf",
+              "path": "PB-PAPERS/SOUTH_POINT/PHYSICS-PTII(2025-26)-AK.pdf"
             }
           ]
         }
