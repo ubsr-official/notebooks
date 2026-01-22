@@ -1,4 +1,4 @@
-# Light - Reflection and Refraction - Class 9 Physics Notes (CBSE)
+# Light - Reflection and Refraction - Class 10 Physics Notes (CBSE)
 
 ## Quick Definitions List
 
