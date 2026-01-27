@@ -6692,8 +6692,18 @@
     },
     {
       "type": "file",
+      "name": "NOTEBOOK-LM.md",
+      "path": "NOTEBOOK-LM.md"
+    },
+    {
+      "type": "file",
       "name": "README.md",
       "path": "README.md"
+    },
+    {
+      "type": "file",
+      "name": "temp.txt",
+      "path": "temp.txt"
     }
   ]
 }
