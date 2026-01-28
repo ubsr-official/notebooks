@@ -1,6 +1,6 @@
 # PRINT CULTURE AND THE MODERN WORLD
 
-### Class X CBSE | NCERT History Chapter 5 | VOLUME 1 of 5
+### Class X CBSE | NCERT History Chapter 5
 
 **Core Concepts, Timeline & East Asia**
 
@@ -1914,8 +1914,6 @@ Cycle of SUPPRESSION & RESISTANCE
 ```
 
 ---
-
-
 
 ## 🔗 MAJOR CAUSE-EFFECT CHAINS
 
