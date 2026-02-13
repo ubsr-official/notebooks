@@ -4,429 +4,6 @@
   "children": [
     {
       "type": "folder",
-      "name": "AI-NOTES",
-      "children": [
-        {
-          "type": "folder",
-          "name": "MATHS",
-          "children": [
-            {
-              "type": "file",
-              "name": "MATHS.pdf",
-              "path": "AI-NOTES/MATHS/MATHS.pdf"
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "SCIENCE",
-          "children": [
-            {
-              "type": "folder",
-              "name": "BIOLOGY",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "01LIFE_PROCESSES",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/01LIFE_PROCESSES/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "02CONTROL_AND_COORDINATION",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/02CONTROL_AND_COORDINATION/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "03HOW_DO_ORGANISMS_REPRODUCE",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/03HOW_DO_ORGANISMS_REPRODUCE/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "04HEREDITY",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/04HEREDITY/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "05OUR_ENVIRONMENT",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/BIOLOGY/05OUR_ENVIRONMENT/NOTES.md"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "CHEMISTRY",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "01CHEMICAL_REACTIONS_AND_EQUATIONS",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/01CHEMICAL_REACTIONS_AND_EQUATIONS/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "02ACIDS_BASES_AND_SALTS",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/02ACIDS_BASES_AND_SALTS/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "03METALS_AND_NON-METALS",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/03METALS_AND_NON-METALS/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "04CARBON_AND_ITS_COMPOUNDS",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/CHEMISTRY/04CARBON_AND_ITS_COMPOUNDS/NOTES.md"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "PHYSICS",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "01LIGHT-REFLECTION_AND_REFRACTION",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/01LIGHT-REFLECTION_AND_REFRACTION/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "02THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/02THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "03ELECTRICITY",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/03ELECTRICITY/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "04MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SCIENCE/PHYSICS/04MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT/NOTES.md"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "folder",
-          "name": "SOCIAL-SCIENCE",
-          "children": [
-            {
-              "type": "folder",
-              "name": "ECONOMICS",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "01DEVELOPMENT",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/01DEVELOPMENT/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "02SECTORS_OF_INDIAN_ECONOMY",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/02SECTORS_OF_INDIAN_ECONOMY/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "03MONEY_AND_CREDIT",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/03MONEY_AND_CREDIT/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "04GLOBALISATION_AND_THE_INDIAN_ECONOMY",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/ECONOMICS/04GLOBALISATION_AND_THE_INDIAN_ECONOMY/NOTES.md"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "GEOGRAPHY",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "01RESOURCES_AND_DEVELOPMENT",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/01RESOURCES_AND_DEVELOPMENT/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "02FOREST_AND_WILDLIFE_RESOURCES",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/02FOREST_AND_WILDLIFE_RESOURCES/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "03WATER_RESOURCES",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/03WATER_RESOURCES/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "04AGRICULTURE",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/04AGRICULTURE/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "05MINERALS_AND_ENERGY_RESOURCES",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/05MINERALS_AND_ENERGY_RESOURCES/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "06MANUFACTURING_INDUSTRIES",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/GEOGRAPHY/06MANUFACTURING_INDUSTRIES/NOTES.md"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "HISTORY",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "01THE_RISE_OF_NATIONALISM_IN_EUROPE",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/01THE_RISE_OF_NATIONALISM_IN_EUROPE/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "02NATIONALISM_IN_INDIA",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/02NATIONALISM_IN_INDIA/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "03THE_MAKING_OF_A_GLOBAL_WORLD",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/03THE_MAKING_OF_A_GLOBAL_WORLD/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "04PRINT_CULTURE_AND_THE_MODERN_WORLD",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/HISTORY/04PRINT_CULTURE_AND_THE_MODERN_WORLD/NOTES.md"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "folder",
-              "name": "POLITICAL-SCIENCE",
-              "children": [
-                {
-                  "type": "folder",
-                  "name": "01POWER_SHARING",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/01POWER_SHARING/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "02FEDERALISM",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/02FEDERALISM/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "03GENDER_RELIGION_AND_CASTE",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/03GENDER_RELIGION_AND_CASTE/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "04POLITICAL_PARTIES",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/04POLITICAL_PARTIES/NOTES.md"
-                    }
-                  ]
-                },
-                {
-                  "type": "folder",
-                  "name": "05OUTCOMES_OF_DEMOCRACY",
-                  "children": [
-                    {
-                      "type": "file",
-                      "name": "NOTES.md",
-                      "path": "AI-NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/05OUTCOMES_OF_DEMOCRACY/NOTES.md"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "folder",
       "name": "CBSE-SOURCES",
       "children": [
         {
@@ -3943,6 +3520,429 @@
                   "type": "file",
                   "name": "SSC-POLITICAL_SCIENCE05-OUTCOMES_OF_DEMOCRACY.pdf",
                   "path": "NCERT-PDF/SOCIAL-SCIENCE/POLITICAL-SCIENCE/SSC-POLITICAL_SCIENCE05-OUTCOMES_OF_DEMOCRACY.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "NOTES",
+      "children": [
+        {
+          "type": "folder",
+          "name": "MATHS",
+          "children": [
+            {
+              "type": "file",
+              "name": "MATHS.pdf",
+              "path": "NOTES/MATHS/MATHS.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "SCIENCE",
+          "children": [
+            {
+              "type": "folder",
+              "name": "BIOLOGY",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "01LIFE_PROCESSES",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/BIOLOGY/01LIFE_PROCESSES/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "02CONTROL_AND_COORDINATION",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/BIOLOGY/02CONTROL_AND_COORDINATION/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "03HOW_DO_ORGANISMS_REPRODUCE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/BIOLOGY/03HOW_DO_ORGANISMS_REPRODUCE/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "04HEREDITY",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/BIOLOGY/04HEREDITY/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "05OUR_ENVIRONMENT",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/BIOLOGY/05OUR_ENVIRONMENT/NOTES.md"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "CHEMISTRY",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "01CHEMICAL_REACTIONS_AND_EQUATIONS",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/CHEMISTRY/01CHEMICAL_REACTIONS_AND_EQUATIONS/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "02ACIDS_BASES_AND_SALTS",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/CHEMISTRY/02ACIDS_BASES_AND_SALTS/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "03METALS_AND_NON-METALS",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/CHEMISTRY/03METALS_AND_NON-METALS/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "04CARBON_AND_ITS_COMPOUNDS",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/CHEMISTRY/04CARBON_AND_ITS_COMPOUNDS/NOTES.md"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "PHYSICS",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "01LIGHT-REFLECTION_AND_REFRACTION",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/PHYSICS/01LIGHT-REFLECTION_AND_REFRACTION/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "02THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/PHYSICS/02THE_HUMAN_EYE_AND_THE_COLOURFUL_WORLD/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "03ELECTRICITY",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/PHYSICS/03ELECTRICITY/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "04MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SCIENCE/PHYSICS/04MAGNETIC_EFFECTS_OF_ELECTRIC_CURRENT/NOTES.md"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "SOCIAL-SCIENCE",
+          "children": [
+            {
+              "type": "folder",
+              "name": "ECONOMICS",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "01DEVELOPMENT",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/ECONOMICS/01DEVELOPMENT/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "02SECTORS_OF_INDIAN_ECONOMY",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/ECONOMICS/02SECTORS_OF_INDIAN_ECONOMY/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "03MONEY_AND_CREDIT",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/ECONOMICS/03MONEY_AND_CREDIT/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "04GLOBALISATION_AND_THE_INDIAN_ECONOMY",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/ECONOMICS/04GLOBALISATION_AND_THE_INDIAN_ECONOMY/NOTES.md"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "GEOGRAPHY",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "01RESOURCES_AND_DEVELOPMENT",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/GEOGRAPHY/01RESOURCES_AND_DEVELOPMENT/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "02FOREST_AND_WILDLIFE_RESOURCES",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/GEOGRAPHY/02FOREST_AND_WILDLIFE_RESOURCES/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "03WATER_RESOURCES",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/GEOGRAPHY/03WATER_RESOURCES/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "04AGRICULTURE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/GEOGRAPHY/04AGRICULTURE/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "05MINERALS_AND_ENERGY_RESOURCES",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/GEOGRAPHY/05MINERALS_AND_ENERGY_RESOURCES/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "06MANUFACTURING_INDUSTRIES",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/GEOGRAPHY/06MANUFACTURING_INDUSTRIES/NOTES.md"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "HISTORY",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "01THE_RISE_OF_NATIONALISM_IN_EUROPE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/HISTORY/01THE_RISE_OF_NATIONALISM_IN_EUROPE/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "02NATIONALISM_IN_INDIA",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/HISTORY/02NATIONALISM_IN_INDIA/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "03THE_MAKING_OF_A_GLOBAL_WORLD",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/HISTORY/03THE_MAKING_OF_A_GLOBAL_WORLD/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "04PRINT_CULTURE_AND_THE_MODERN_WORLD",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/HISTORY/04PRINT_CULTURE_AND_THE_MODERN_WORLD/NOTES.md"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "POLITICAL-SCIENCE",
+              "children": [
+                {
+                  "type": "folder",
+                  "name": "01POWER_SHARING",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/01POWER_SHARING/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "02FEDERALISM",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/02FEDERALISM/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "03GENDER_RELIGION_AND_CASTE",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/03GENDER_RELIGION_AND_CASTE/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "04POLITICAL_PARTIES",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/04POLITICAL_PARTIES/NOTES.md"
+                    }
+                  ]
+                },
+                {
+                  "type": "folder",
+                  "name": "05OUTCOMES_OF_DEMOCRACY",
+                  "children": [
+                    {
+                      "type": "file",
+                      "name": "NOTES.md",
+                      "path": "NOTES/SOCIAL-SCIENCE/POLITICAL-SCIENCE/05OUTCOMES_OF_DEMOCRACY/NOTES.md"
+                    }
+                  ]
                 }
               ]
             }
