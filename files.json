@@ -8,6 +8,17 @@
       "children": [
         {
           "type": "folder",
+          "name": "MATHS",
+          "children": [
+            {
+              "type": "file",
+              "name": "MATHS.pdf",
+              "path": "AI-NOTES/MATHS/MATHS.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
           "name": "SCIENCE",
           "children": [
             {
